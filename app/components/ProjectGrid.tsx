@@ -10,7 +10,7 @@ const ProjectGrid: React.FC = () => (
         <div className="group cursor-pointer">
           <div className="relative aspect-[16/9] overflow-hidden">
             <Image
-              src={project.image}
+              src={project.image || '/placeholder.svg'}
               alt={project.title}
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
