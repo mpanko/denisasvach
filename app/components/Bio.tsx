@@ -12,9 +12,12 @@ const Bio: React.FC = () => (
     ))}
     
     <div className="mt-12 space-y-6">
+      <CollapsibleSection title="Education" items={bioSections.education} />
       <CollapsibleSection title="Residencies" items={bioSections.residencies} />
       <CollapsibleSection title="Scenography" items={bioSections.scenography} />
-      {/* Add other sections here */}
+      <CollapsibleSection title="Solo & Duo Shows" items={bioSections.soloAndDuoShows} />
+      <CollapsibleSection title="Group Exhibitions" items={bioSections.groupExhibitions} />
+      <CollapsibleSection title="Performances" items={bioSections.performances} />
     </div>
   </div>
 );

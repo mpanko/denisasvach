@@ -3,15 +3,18 @@
 import React, { useState } from 'react';
 import { ChevronDown } from 'lucide-react';
 
+type Item = {
+  year: number | string;
+  title: string;
+  institution?: string;
+  type?: string;
+  description?: string;
+  location?: string;
+};
+
 type CollapsibleSectionProps = {
   title: string;
-  items: Array<{
-    year: number;
-    title: string;
-    type?: string;
-    description?: string;
-    location?: string;
-  }>;
+  items: Item[];
 };
 
 const CollapsibleSection: React.FC<CollapsibleSectionProps> = ({ title, items }) => {
@@ -41,6 +44,7 @@ const CollapsibleSection: React.FC<CollapsibleSectionProps> = ({ title, items })
               <h4 className="font-medium">{item.title}</h4>
               <p className="text-sm text-gray-600">
                 {item.year}
+                {item.institution && ` | ${item.institution}`}
                 {item.type && ` | ${item.type}`}
                 {item.description && ` | ${item.description}`}
                 {item.location && ` | ${item.location}`}
