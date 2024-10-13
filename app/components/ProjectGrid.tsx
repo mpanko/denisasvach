@@ -4,13 +4,13 @@ import Link from 'next/link';
 import { projects } from '../data/projects';
 
 const ProjectGrid: React.FC = () => (
-  <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+  <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
     {projects.map((project) => (
       <Link key={project.id} href={`/project/${project.id}`}>
         <div className="group cursor-pointer">
           <div className="relative aspect-[16/9] overflow-hidden">
             <Image
-              src={project.image || '/placeholder.svg'}
+              src={project.image}
               alt={project.title}
               fill
               sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"

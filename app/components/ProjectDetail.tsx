@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { projects } from '../data/projects';
 
 type ProjectDetailProps = {
-  projectId: number;
+  projectId: string;
 };
 
 const ProjectDetail: React.FC<ProjectDetailProps> = ({ projectId }) => {
@@ -20,14 +20,14 @@ const ProjectDetail: React.FC<ProjectDetailProps> = ({ projectId }) => {
             {item.type === 'text' && (
               <p className="text-lg leading-relaxed text-gray-700">{item.content}</p>
             )}
-            {item.type === 'image' && (
+            {item.type === 'image' && item.src && (
               <div className="relative aspect-[4/3]">
                 <Image
                   src={item.src}
-                  alt={item.alt}
-                  layout="fill"
-                  objectFit="cover"
-                  className="rounded-sm"
+                  alt={item.alt || ''}
+                  fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  className="object-cover rounded-sm"
                 />
               </div>
             )}
