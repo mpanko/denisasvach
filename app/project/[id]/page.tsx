@@ -17,7 +17,7 @@ export default function ProjectPage({ params }: { params: { id: string } }) {
   }
 
   return (
-    <div className="container mx-auto px-4 py-12">
+    <div className="container mx-auto px-4 pt-0 pb-5">
       <BackButton />
       <ProjectDetail projectId={params.id} />
     </div>
