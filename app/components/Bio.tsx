@@ -4,7 +4,7 @@ import { bioSummary, bioSections } from '../data/bioData';
 
 const Bio: React.FC = () => (
   <div className="max-w-3xl mx-auto">
-    <h1 className="text-4xl font-light mb-8 tracking-wide">About Denisa Svach</h1>
+    <h1 className="text-4xl font-light mb-8 tracking-wide">Bio</h1>
     {bioSummary.split('\n\n').map((paragraph, index) => (
       <p key={index} className="text-lg mb-6 leading-relaxed text-gray-700">
         {paragraph}
