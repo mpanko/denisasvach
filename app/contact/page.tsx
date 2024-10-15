@@ -7,7 +7,7 @@ export default function ContactPage() {
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-1/2">
           <Image
-            src="/placeholder.svg?height=400&width=300"
+            src="/contact.jpg"
             alt="Denisa Svach"
             width={300}
             height={400}

@@ -6,7 +6,7 @@ export default function Bio() {
   return (
     <div className="flex flex-col md:flex-row gap-8">
       <div className="md:w-1/2 text-white">
-        <p className="text-m leading-relaxed">
+        <p className="text-lg leading-relaxed">
           {bioSummary}
         </p>
       </div>

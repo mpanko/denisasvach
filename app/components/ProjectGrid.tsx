@@ -18,7 +18,7 @@ export default function ProjectGrid() {
                 className="object-cover transition-transform duration-500 group-hover:scale-110"
               />
               <div className="absolute inset-0 bg-black bg-opacity-100 opacity-0 group-hover:opacity-100 transition-opacity duration-500 flex items-center justify-center">
-                <h2 className="text-white text-2xl font-light tracking-wider">
+                <h2 className="text-white text-4xl font-light tracking-wider">
                   {project.title}
                 </h2>
               </div>
