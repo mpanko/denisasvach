@@ -21,13 +21,13 @@ export default function ProjectDetail({ projectId }: ProjectDetailProps) {
               <p className="text-lg leading-relaxed">{item.content}</p>
             )}
             {item.type === 'image' && item.src && (
-              <div className="relative aspect-[4/3]">
+              <div className="relative aspect-[4/3] border border-white">
                 <Image
                   src={item.src}
                   alt={item.alt || ''}
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                  className="object-cover rounded-sm"
+                  className="object-cover"
                 />
               </div>
             )}

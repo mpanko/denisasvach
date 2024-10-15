@@ -14,6 +14,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           sizes="100vw"
           style={{
             objectFit: 'cover',
+            filter: 'saturate(100%)'
           }}
           quality={100}
           priority
