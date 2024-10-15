@@ -1,7 +1,7 @@
-import React from 'react';
-import Image from 'next/image';
-import Link from 'next/link';
-import { projects } from '../data/projects';
+import React from 'react'
+import Image from 'next/image'
+import Link from 'next/link'
+import { projects } from '../data/projects'
 
 export default function ProjectGrid() {
   return (
@@ -27,5 +27,5 @@ export default function ProjectGrid() {
         </Link>
       ))}
     </div>
-  );
+  )
 }

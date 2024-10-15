@@ -1,19 +1,31 @@
-import React from 'react';
-import Header from './Header';
-import Footer from './Footer';
+import React from 'react'
+import Image from 'next/image'
+import Header from './Header'
+import Footer from './Footer'
 
-type LayoutProps = {
-  children: React.ReactNode;
-};
-
-const Layout: React.FC<LayoutProps> = ({ children }) => (
-  <div className="min-h-screen flex flex-col font-akkurat bg-white">
-    <Header />
-    <main className="flex-grow container mx-auto px-0 py-0">
-      {children}
-    </main>
-    <Footer />
-  </div>
-);
-
-export default Layout;
+export default function Layout({ children }: { children: React.ReactNode }) {
+  return (
+    <div className="min-h-screen font-sans relative">
+      <div className="fixed inset-0 z-0">
+        <Image
+          src="/background.jpg"
+          alt="Background image"
+          fill
+          sizes="100vw"
+          style={{
+            objectFit: 'cover',
+          }}
+          quality={100}
+          priority
+        />
+      </div>
+      <div className="relative z-10 flex flex-col min-h-screen">
+        <Header />
+        <main className="flex-grow">
+          {children}
+        </main>
+        <Footer />
+      </div>
+    </div>
+  )
+}
