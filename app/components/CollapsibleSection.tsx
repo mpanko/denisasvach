@@ -23,7 +23,7 @@ export default function CollapsibleSection({ title, items }: CollapsibleSectionP
   return (
     <div className="border-b border-white">
       <button
-        className="flex justify-between items-center w-full text-left font-semibold text-lg py-4"
+        className="flex justify-between items-center w-full text-left font-semibold text-2xl py-4"
         onClick={() => setIsOpen(!isOpen)}
         aria-expanded={isOpen}
       >
@@ -37,7 +37,7 @@ export default function CollapsibleSection({ title, items }: CollapsibleSectionP
       {isOpen && (
         <ul className="mt-2 space-y-2 pb-4">
           {items.map((item, index) => (
-            <li key={index} className="text-sm text-gray-300">
+            <li key={index} className="text-lg text-white">
               {item.year} - {item.title}
               {item.institution && ` | ${item.institution}`}
               {item.location && ` | ${item.location}`}
