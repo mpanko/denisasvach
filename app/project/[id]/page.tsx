@@ -2,7 +2,6 @@ import React from 'react'
 import { notFound } from 'next/navigation'
 import { projects } from '../../data/projects'
 import ProjectDetail from '../../components/ProjectDetail'
-import BackButton from '../../components/BackButton'
 
 export async function generateStaticParams() {
   return projects.map((project) => ({
@@ -19,7 +18,6 @@ export default function ProjectPage({ params }: { params: { id: string } }) {
 
   return (
     <div className="container mx-auto px-4 pt-8 pb-16">
-      <BackButton />
       <ProjectDetail projectId={params.id} />
     </div>
   )
