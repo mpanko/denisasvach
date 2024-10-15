@@ -12,7 +12,7 @@ export default function ProjectDetail({ projectId }: ProjectDetailProps) {
   if (!project) return <div>Project not found</div>
 
   return (
-    <div className="max-w-5xl mx-auto text-white">
+    <div className="text-white">
       <h1 className="text-4xl font-light mb-8 tracking-wide">{project.title}</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {project.content.map((item, index) => (
