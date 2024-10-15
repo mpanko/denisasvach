@@ -4,7 +4,6 @@ import Image from 'next/image'
 export default function ContactPage() {
   return (
     <div className="container mx-auto px-4 pt-8 pb-16">
-      <h1 className="text-4xl font-light mb-8 tracking-wide text-white">Contact</h1>
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-1/2">
           <Image
