@@ -12,16 +12,16 @@ export default function ProjectDetail({ projectId }: ProjectDetailProps) {
   if (!project) return <div>Project not found</div>
 
   return (
-    <div className="text-white">
-      <h1 className="text-4xl font-light mb-8 tracking-wide">{project.title}</h1>
+    <div className="container mx-auto px-0">
+      <h1 className="text-5xl font-bold mb-12 uppercase text-center">{project.title}</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {project.content.map((item, index) => (
           <div key={index} className={item.span ? "col-span-full" : ""}>
             {item.type === 'text' && (
-              <p className="text-lg leading-relaxed">{item.content}</p>
+              <p className="text-lg leading-relaxed bg-white bg-opacity-80 p-4">{item.content}</p>
             )}
             {item.type === 'image' && item.src && (
-              <div className="relative aspect-[4/3] border border-white">
+              <div className="relative aspect-[4/3] border-2 border-black">
                 <Image
                   src={item.src}
                   alt={item.alt || ''}

@@ -13,10 +13,11 @@ const config: Config = {
         foreground: "var(--foreground)",
       },
       fontFamily: {
-        mono: ['var(--font-roboto-mono)', 'monospace'],
+        sans: ['Helvetica', 'Arial', 'sans-serif'],
       },
     },
   },
   plugins: [],
 };
+
 export default config;

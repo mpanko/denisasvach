@@ -9,34 +9,33 @@ export default function Header() {
 
   const getLinkClassName = (href: string) => {
     const isActive = pathname === href || (href !== '/' && pathname.startsWith(href))
-    return `text-2xl tracking-widest transition-all duration-300 hover:text-white hover:font-bold ${
-      isActive ? 'text-white font-bold' : 'text-white'
-    }`
+    return `block text-xl uppercase font-bold transition-all duration-300 ${
+      isActive ? 'bg-black text-white' : 'hover:bg-black hover:text-white'
+    } p-2`
   }
 
   return (
-    <header className="sticky top-0 z-20 bg-white bg-opacity-0">
-      <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-        <Link href="/" className="text-4xl font-extralight tracking-wider text-white uppercase">
-          Denisa Svach
+    <header className="sticky top-0 z-10 bg-white border-b-2 border-black">
+      <div className="container mx-auto px-4 py-6 flex flex-col md:flex-row justify-between items-start md:items-center">
+        <Link href="/" className="text-4xl font-bold mb-4 md:mb-0">
+          DENISA SVACH
         </Link>
-        <nav>
-          <ul className="flex space-x-8">
-            <li>
-              <Link href="/" className={getLinkClassName('/')}>
-                Portfolio
-              </Link>
-            </li>
-            <li>
-              <Link href="/bio" className={getLinkClassName('/bio')}>
-                Bio
-              </Link>
-            </li>
-            <li>
-              <Link href="/contact" className={getLinkClassName('/contact')}>
-                Contact
-              </Link>
-            </li>
+        <nav className="w-full md:w-auto">
+          <ul className="flex flex-col md:flex-row space-y-2 md:space-y-0 md:space-x-8">
+            {[
+              { name: 'Portfolio', href: '/' },
+              { name: 'Bio', href: '/bio' },
+              { name: 'Contact', href: '/contact' }
+            ].map((item) => (
+              <li key={item.name} className="w-full md:w-auto">
+                <Link 
+                  href={item.href}
+                  className={getLinkClassName(item.href)}
+                >
+                  {item.name}
+                </Link>
+              </li>
+            ))}
           </ul>
         </nav>
       </div>
