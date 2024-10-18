@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="container mx-auto px-4 pt-8 pb-16">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {projects.map((project, index) => (
+        {projects.map((project) => (
           <Link key={project.id} href={`/project/${project.id}`}>
             <div className="group cursor-pointer">
               <div className="relative aspect-square overflow-hidden border-2 border-black">
@@ -23,7 +23,6 @@ export default function Home() {
                 </div>
               </div>
               <div className="mt-4">
-                <p className="text-lg font-bold uppercase">{`0${index + 1}`}</p>
                 <h3 className="text-2xl font-bold uppercase mt-1">{project.title}</h3>
                 <p className="text-sm mt-2">{project.description}</p>
               </div>
