@@ -22,7 +22,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
       </div>
       <div className="relative z-10 flex flex-col min-h-screen">
         <Header />
-        <main className="flex-grow container mx-auto px-0 py-12">
+        <main className="flex-grow container mx-auto px-0 py-0">
           {children}
         </main>
         <Footer />

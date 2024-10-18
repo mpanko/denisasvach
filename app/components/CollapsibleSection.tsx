@@ -21,7 +21,7 @@ export default function CollapsibleSection({ title, items }: CollapsibleSectionP
   const [isOpen, setIsOpen] = useState(false)
 
   return (
-    <div className="py-4 bg-white bg-opacity-80">
+    <div className="py-4 bg-white bg-opacity-0">
       <button
         className="flex justify-between items-center w-full text-left font-bold text-2xl uppercase"
         onClick={() => setIsOpen(!isOpen)}

@@ -3,8 +3,7 @@ import Image from 'next/image'
 
 export default function ContactPage() {
   return (
-    <div className="max-w-2xl mx-auto">
-      <h1 className="text-5xl font-bold mb-8 uppercase">Contact</h1>
+    <div className="mx-auto container mx-auto px-4 pt-6 pb-6">
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-1/2">
           <Image
