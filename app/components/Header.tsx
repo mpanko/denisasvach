@@ -66,8 +66,8 @@ export default function Header() {
           </nav>
         </div>
         {isMenuOpen && (
-          <nav className="lg:hidden mt-4">
-            <ul className="space-y-2">
+          <nav className="lg:hidden mt-4 absolute left-0 right-0 bg-white border-b-2 border-black">
+            <ul className="space-y-2 px-4 py-4">
               {navItems.map((item) => (
                 <li key={item.name}>
                   <Link
