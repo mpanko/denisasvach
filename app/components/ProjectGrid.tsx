@@ -5,7 +5,7 @@ import { projects } from '../data/projects'
 
 export default function ProjectGrid() {
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
       {projects.map((project) => (
         <Link key={project.id} href={`/project/${project.id}`}>
           <div className="group cursor-pointer">
