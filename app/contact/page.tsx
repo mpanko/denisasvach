@@ -16,7 +16,7 @@ export default function ContactPage() {
         </div>
         <div className="md:w-1/2">
           <p className="text-xl mb-6 leading-relaxed">
-            For inquiries about exhibitions, collaborations, or artwork purchases, please don't hesitate to get in touch.
+            For inquiries about exhibitions, collaborations, or artwork purchases, please don&apos;t hesitate to get in touch.
           </p>
           <ul className="text-xl space-y-4">
             <li>
