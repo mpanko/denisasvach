@@ -3,7 +3,7 @@
 import React, { useState } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
-import { Menu, MenuIcon, MenuSquare } from 'lucide-react'
+import { Menu } from 'lucide-react'
 
 export default function Header() {
   const pathname = usePathname()
@@ -26,7 +26,7 @@ export default function Header() {
     <header className="sticky top-0 z-20 bg-white bg-opacity-80 border-b-2 border-black">
       <div className="container mx-auto px-4 py-6">
         <div className="flex justify-between items-center">
-          <Link href="/" className="text-4xl font-bold">
+          <Link href="/" className="text-4xl font-bold no-underline hover:no-underline hover:text-black hover:bg-transparent">
             DENISA SVACH
           </Link>
           <button
