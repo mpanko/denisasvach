@@ -1,12 +1,8 @@
 import './globals.css'
-import { Inter, Roboto_Mono } from 'next/font/google'
+import { Inter } from 'next/font/google'
 import Layout from './components/Layout'
 
 const inter = Inter({ subsets: ['latin'] })
-const robotoMono = Roboto_Mono({
-  subsets: ['latin'],
-  variable: '--font-roboto-mono',
-})
 
 export const metadata = {
   title: 'Denisa Svach Portfolio',
@@ -20,7 +16,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} ${robotoMono.variable} font-mono`}>
+      <body className={`${inter.className} font-sans`}>
         <Layout>{children}</Layout>
       </body>
     </html>
