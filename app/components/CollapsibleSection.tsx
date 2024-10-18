@@ -15,14 +15,16 @@ type Item = {
 type CollapsibleSectionProps = {
   title: string
   items: Item[]
+  isLast?: boolean
+  addExtraSpace?: boolean
 }
 
-export default function CollapsibleSection({ title, items }: CollapsibleSectionProps) {
+export default function CollapsibleSection({ title, items, isLast = false, addExtraSpace = false }: CollapsibleSectionProps) {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
     <>
-      <div className={`py-4 bg-white bg-opacity-0 ${title !== 'Education' ? 'border-t-2 border-black' : ''}`}>
+      <div className="py-4 bg-white bg-opacity-0 border-t-2 border-black">
         <button
           className="flex justify-between items-center w-full text-left font-bold text-2xl uppercase"
           onClick={() => setIsOpen(!isOpen)}
@@ -58,7 +60,8 @@ export default function CollapsibleSection({ title, items }: CollapsibleSectionP
           </div>
         </div>
       </div>
-      {title === 'Performances' && <div className="h-16"></div>}
+      {isLast && <div className="border-t-2 border-black mt-8"></div>}
+      {addExtraSpace && <div className="h-16"></div>}
     </>
   )
 }
