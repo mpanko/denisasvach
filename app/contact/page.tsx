@@ -26,6 +26,12 @@ export default function ContactPage() {
               </a>
             </li>
             <li>
+              <strong>Instagram:</strong>{' '}
+              <a href="https://www.instagram.com/denisasvach" target="_blank" rel="noopener noreferrer" className="underline hover:bg-black hover:text-white">
+                @denisasvach
+              </a>
+            </li>            
+            <li>
               <strong>Studio Address:</strong>
               <br />
               123 Art Studio Lane
@@ -33,12 +39,6 @@ export default function ContactPage() {
               Prague, 110 00
               <br />
               Czech Republic
-            </li>
-            <li>
-              <strong>Instagram:</strong>{' '}
-              <a href="https://www.instagram.com/denisasvach" target="_blank" rel="noopener noreferrer" className="underline hover:bg-black hover:text-white">
-                @denisasvach
-              </a>
             </li>
           </ul>
         </div>

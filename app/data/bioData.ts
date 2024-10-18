@@ -1,11 +1,9 @@
 export const bioSummary = `
-Denisa Svach is a contemporary visual artist known for her innovative approach to conceptual and installation art. 
-Born in Prague, she developed a passion for art at a young age and went on to study at the Academy of Fine Arts in Prague.
+I am fascinated by people's immediate reactions to commands—how they behave, move, and express emotions. Observing these first impulses, I aim to better understand individuals and their contexts.
 
-Her work explores themes of perception, space, and the interplay between physical and abstract realities. 
-Denisa's art challenges viewers to reconsider their understanding of form, function, and the boundaries of artistic expression. 
-Her installations, performances, and conceptual pieces have been exhibited in galleries and museums across Europe and Asia, 
-receiving critical acclaim for their thought-provoking nature and meticulous execution.
+My artistic practice revolves around the relationship between natural movement and choreography, often framed by spatial installations. I explore various situations, actively engaging the audience. In my performances, I often use voice-over to direct movement or interactions with objects and costumes. I refer to these interactive works as "self-service performances," where the audience shapes the experience in my absence.
+
+I create videos and costumes for both my own projects and for performers. My set designs are primarily for contemporary dance, but I am open to collaborating on any project where scenography can enhance the experience.
 `;
 
 export const bioSections = {
