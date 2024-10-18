@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { Menu } from 'lucide-react'
@@ -8,6 +8,8 @@ import { Menu } from 'lucide-react'
 export default function Header() {
   const pathname = usePathname()
   const [isMenuOpen, setIsMenuOpen] = useState(false)
+  const [isVisible, setIsVisible] = useState(true)
+  const [lastScrollY, setLastScrollY] = useState(0)
 
   const getLinkClassName = (href: string) => {
     const isActive = pathname === href || (href !== '/' && pathname.startsWith(href))
@@ -22,8 +24,23 @@ export default function Header() {
     { name: 'Contact', href: '/contact' }
   ]
 
+  useEffect(() => {
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY
+      if (currentScrollY < lastScrollY || currentScrollY < 50) {
+        setIsVisible(true)
+      } else if (currentScrollY > 100 && currentScrollY > lastScrollY) {
+        setIsVisible(false)
+      }
+      setLastScrollY(currentScrollY)
+    }
+
+    window.addEventListener('scroll', handleScroll, { passive: true })
+    return () => window.removeEventListener('scroll', handleScroll)
+  }, [lastScrollY])
+
   return (
-    <header className="sticky top-0 z-20 bg-white bg-opacity-80 border-b-2 border-black">
+    <header className={`sticky top-0 z-20 bg-white border-b-2 border-black transition-transform duration-300 ${isVisible ? 'translate-y-0' : '-translate-y-full'}`}>
       <div className="container mx-auto px-4 py-6">
         <div className="flex justify-between items-center">
           <Link href="/" className="text-4xl font-bold no-underline hover:no-underline hover:text-black hover:bg-transparent">
