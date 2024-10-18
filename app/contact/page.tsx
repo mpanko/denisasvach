@@ -35,9 +35,7 @@ export default function ContactPage() {
               Czech Republic
             </li>
             <li>
-              <strong>Social Media:</strong>
-              <br />
-              Instagram:{' '}
+              <strong>Instagram:</strong>{' '}
               <a href="https://www.instagram.com/denisasvach" target="_blank" rel="noopener noreferrer" className="underline hover:bg-black hover:text-white">
                 @denisasvach
               </a>
