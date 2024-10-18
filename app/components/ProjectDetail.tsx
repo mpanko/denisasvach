@@ -21,7 +21,7 @@ export default function ProjectDetail({ projectId }: ProjectDetailProps) {
               <p className="text-lg leading-relaxed bg-white bg-opacity-80 p-4">{item.content}</p>
             )}
             {item.type === 'image' && item.src && (
-              <div className="relative aspect-[4/3] border-2 border-black">
+              <div className="relative aspect-[4/3]">
                 <Image
                   src={item.src}
                   alt={item.alt || ''}

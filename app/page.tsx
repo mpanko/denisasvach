@@ -14,7 +14,7 @@ export default function Home() {
             className="block no-underline hover:no-underline text-foreground hover:text-foreground hover:bg-transparent"
           >
             <div className="hover:bg-transparent">
-              <div className="relative aspect-square overflow-hidden border-2 border-black">
+              <div className="relative aspect-square overflow-hidden">
                 <Image
                   src={project.image}
                   alt={project.title}

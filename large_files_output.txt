@@ -1,2 +1,3 @@
 app\data\projects.ts
 app\data\bioData.ts
+app\components\Header.tsx

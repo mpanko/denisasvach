@@ -11,7 +11,7 @@ export default function ContactPage() {
             alt="Denisa Svach"
             width={300}
             height={400}
-            className="w-full h-auto object-cover border-2 border-black"
+            className="w-full h-auto object-cover"
           />
         </div>
         <div className="md:w-1/2">
