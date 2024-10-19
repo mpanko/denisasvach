@@ -25,7 +25,6 @@ export default function BioPage() {
             <CollapsibleSection 
               title="Performances" 
               items={bioSections.performances} 
-              isLast={true} 
               addExtraSpace={true}
             />
           </div>

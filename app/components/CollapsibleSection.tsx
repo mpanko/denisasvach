@@ -16,11 +16,10 @@ type CollapsibleSectionProps = {
   title: string
   items: Item[]
   isFirst?: boolean
-  isLast?: boolean
   addExtraSpace?: boolean
 }
 
-export default function CollapsibleSection({ title, items, isFirst = false, isLast = false, addExtraSpace = false }: CollapsibleSectionProps) {
+export default function CollapsibleSection({ title, items, isFirst = false, addExtraSpace = false }: CollapsibleSectionProps) {
   const [isOpen, setIsOpen] = useState(false)
 
   return (
