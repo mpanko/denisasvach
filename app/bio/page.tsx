@@ -17,7 +17,7 @@ export default function BioPage() {
         </div>
         <div className="md:w-3/5">
           <div className="space-y-0">
-            <CollapsibleSection title="Education" items={bioSections.education} />
+            <CollapsibleSection title="Education" items={bioSections.education} isFirst={true} />
             <CollapsibleSection title="Residencies" items={bioSections.residencies} />
             <CollapsibleSection title="Scenography" items={bioSections.scenography} />
             <CollapsibleSection title="Solo & Duo Shows" items={bioSections.soloAndDuoShows} />
