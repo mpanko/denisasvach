@@ -5,7 +5,7 @@ import { projects } from './data/projects'
 
 export default function Home() {
   return (
-    <div className="container mx-auto px-4 pt-8 pb-16">
+    <div className="container mx-auto px-0 pt-8 pb-16">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
         {projects.map((project) => (
           <div key={project.id} className="p-0">
