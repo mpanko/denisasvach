@@ -1,9 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
+  reactStrictMode: true,
   images: {
+    domains: ['mpanko.github.io', 'denisasvach.com'],
     unoptimized: true,
   },
+  basePath: process.env.NODE_ENV === 'production' ? '/denisasvach' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/denisasvach/' : '',
 };
 
 module.exports = nextConfig;

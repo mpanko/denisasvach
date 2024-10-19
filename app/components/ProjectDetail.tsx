@@ -1,6 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 import { projects } from '../data/projects'
+import { getImagePath } from '../utils/imagePath'
 
 type ProjectDetailProps = {
   projectId: string
@@ -23,12 +24,11 @@ export default function ProjectDetail({ projectId }: ProjectDetailProps) {
             {item.type === 'image' && item.src && (
               <div className="relative aspect-[4/3]">
                 <Image
-                  src={item.src}
+                  src={getImagePath(item.src)}
                   alt={item.alt || ''}
                   fill
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                   className="object-cover"
-                  unoptimized
                 />
               </div>
             )}

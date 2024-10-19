@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import { projects } from './data/projects'
+import { getImagePath } from './utils/imagePath'
 
 export default function Home() {
   return (
@@ -16,12 +17,11 @@ export default function Home() {
               <div className="bg-white group-hover:bg-black">
                 <div className="relative aspect-square overflow-hidden">
                   <Image
-                    src={project.image}
+                    src={getImagePath(project.image)}
                     alt={project.title}
                     fill
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
                     className="object-cover p-4 group-hover:bg-black"
-                    unoptimized
                   />
                 </div>
                 <div className="p-4">
