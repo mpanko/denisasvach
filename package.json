@@ -9,11 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tinacms/auth": "^1.0.8",
+    "@tinacms/cli": "^1.6.9",
     "lucide-react": "^0.452.0",
     "next": "^14.2.15",
     "react": "^18",
     "react-dom": "^18",
-    "react-markdown": "^9.0.1"
+    "react-markdown": "^9.0.1",
+    "tinacms": "^2.2.9"
   },
   "devDependencies": {
     "@types/node": "^20",
