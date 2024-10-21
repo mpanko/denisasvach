@@ -3,6 +3,7 @@ import Image from 'next/image'
 import { getImagePath } from '../utils/imagePath'
 import { Project } from '../types'
 import YouTubeEmbed from './YouTubeEmbed'
+import SoundCloudEmbed from './SoundCloudEmbed'
 
 type ProjectDetailProps = {
   project: Project
@@ -29,8 +30,11 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
                 />
               </div>
             )}
-            {item.type === 'video' && item.videoId && (
-              <YouTubeEmbed videoId={item.videoId} />
+            {item.type === 'youtube' && item.youtubeId && (
+              <YouTubeEmbed videoId={item.youtubeId} />
+            )}
+            {item.type === 'soundcloud' && item.soundcloudUrl && (
+              <SoundCloudEmbed url={item.soundcloudUrl} />
             )}
           </div>
         ))}

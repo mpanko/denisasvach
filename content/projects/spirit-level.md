@@ -12,8 +12,11 @@ content:
     src: /projects/spirit-level/1.jpg
     alt: Spirit Level installation view
     span: false
-  - type: video
-    videoId: zKk_mhCGo9A
+  - type: youtube
+    youtubeId: dQw4w9WgXcQ
+    span: false
+  - type: soundcloud
+    soundcloudUrl: https://soundcloud.com/octobersveryown/drake-search-rescue
     span: false
   - type: image
     src: /projects/spirit-level/2.jpg
