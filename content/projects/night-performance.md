@@ -11,4 +11,3 @@ content:
     src: /images/penquins.gif
     alt: Description of the image
 ---
-Bla bla Bla

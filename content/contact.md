@@ -1,5 +1,5 @@
 ---
-image: /contact.jpg
+image: /images/portrait-contact.jpg
 ---
 For inquiries about exhibitions, collaborations, or artwork purchases, please don't hesitate to get in touch.
 

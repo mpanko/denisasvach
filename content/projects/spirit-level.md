@@ -35,4 +35,3 @@ content:
     src: /images/spirit-level-4.jpg
     alt: Spirit Level exhibition overview
 ---
-Hello.
