@@ -8,6 +8,6 @@ For inquiries about exhibitions, collaborations, or artwork purchases, please do
 **Instagram:** [@denisasvach](https://www.instagram.com/denisasvach)
 
 **Studio Address:**\
-  123 Art Studio Lane\
-  Prague, 110 00\
-  Czech Republic
+123 Art Studio Lane\
+Prague, 110 00\
+Czech Republic

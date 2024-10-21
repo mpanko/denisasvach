@@ -17,10 +17,10 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "ID", name: "id", widget: "string"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Description", name: "description", widget: "text"}
-      - label: "Content"
+      - {label: "Project Title", name: "title", widget: "string"}
+      - {label: "Thumbnail Image", name: "image", widget: "image"}
+      - {label: "Project Description", name: "description", widget: "text"}
+      - label: "Project Content"
         name: "content"
         widget: "list"
         required: true
@@ -32,7 +32,7 @@ collections:
             widget: "object"
             fields:
               - {label: "Type", name: "type", widget: "hidden", default: "text"}
-              - {label: "Content", name: "content", widget: "markdown"}
+              - {label: "Content", name: "content", widget: "markdown", editor_components: [], buttons: ["bold", "italic", "link"]}
           - label: "Image"
             name: "image"
             widget: "object"
@@ -78,11 +78,11 @@ collections:
                   - {label: "Location", name: "location", widget: "string", required: false}
                   - {label: "Type", name: "type", widget: "string", required: false}
                   - {label: "Description", name: "description", widget: "string", required: false}
-          - {label: "Content", name: "body", widget: "markdown"}
+          - {label: "Content", name: "body", widget: "markdown", editor_components: [], buttons: ["bold", "italic", "link"]}
 
       - file: "content/contact.md"
         label: "Contact"
         name: "contact"
         fields:
           - {label: "Image", name: "image", widget: "image"}
-          - {label: "Content", name: "body", widget: "markdown"}
+          - {label: "Content", name: "body", widget: "markdown", editor_components: [], buttons: ["bold", "italic", "link"]}
