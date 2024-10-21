@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import { getImagePath } from '../utils/imagePath'
 import { Project } from '../types'
+import YouTubeEmbed from './YouTubeEmbed'
 
 type ProjectDetailProps = {
   project: Project
@@ -27,6 +28,9 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
                   className="object-cover"
                 />
               </div>
+            )}
+            {item.type === 'video' && item.videoId && (
+              <YouTubeEmbed videoId={item.videoId} />
             )}
           </div>
         ))}

@@ -12,6 +12,9 @@ content:
     src: /projects/spirit-level/1.jpg
     alt: Spirit Level installation view
     span: false
+  - type: video
+    videoId: zKk_mhCGo9A
+    span: false
   - type: image
     src: /projects/spirit-level/2.jpg
     alt: Spirit Level artwork detail

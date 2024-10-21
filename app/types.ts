@@ -1,9 +1,10 @@
 export interface ProjectContent {
-  type: 'text' | 'image'
+  type: 'text' | 'image' | 'video'
   content?: string
   src?: string
   alt?: string
   span?: boolean
+  videoId?: string
 }
 
 export interface Project {

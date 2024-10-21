@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2",
     "@tinacms/auth": "^1.0.8",
     "@tinacms/cli": "^1.6.9",
     "gray-matter": "^4.0.3",
