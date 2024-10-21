@@ -14,7 +14,7 @@ export async function getMarkdownContent(filename: string) {
   }
 }
 
-export function getAllProjectIds() {
+export async function getAllProjectIds() {
   const projectsDirectory = path.join(process.cwd(), 'content/projects')
   const filenames = fs.readdirSync(projectsDirectory)
   return filenames.map(filename => ({
