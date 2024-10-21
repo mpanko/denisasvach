@@ -1,21 +1,10 @@
 import React from 'react'
 import Image from 'next/image'
 import { getImagePath } from '../utils/imagePath'
-
-type ProjectContent = {
-  type: 'text' | 'image'
-  content?: string
-  src?: string
-  alt?: string
-  span?: boolean
-}
+import { Project } from '../types'
 
 type ProjectDetailProps = {
-  project: {
-    title: string
-    content: ProjectContent[]
-    [key: string]: unknown
-  }
+  project: Project
 }
 
 export default function ProjectDetail({ project }: ProjectDetailProps) {

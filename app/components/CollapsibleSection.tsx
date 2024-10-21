@@ -2,19 +2,11 @@
 
 import React, { useState } from 'react'
 import { Plus, Minus } from 'lucide-react'
-
-type Item = {
-  year: number | string
-  title: string
-  institution?: string
-  type?: string
-  description?: string
-  location?: string
-}
+import { BioItem } from '../types'
 
 type CollapsibleSectionProps = {
   title: string
-  items: Item[]
+  items: BioItem[]
   isFirst?: boolean
 }
 

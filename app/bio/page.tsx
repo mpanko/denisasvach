@@ -2,9 +2,11 @@ import React from 'react'
 import CollapsibleSection from '../components/CollapsibleSection'
 import FormattedMarkdown from '../components/FormattedMarkdown'
 import { getMarkdownContent } from '../utils/markdown'
+import { Bio } from '../types'
 
 export default async function BioPage() {
   const { frontMatter, content } = await getMarkdownContent('bio.md')
+  const bioData = frontMatter as Bio
 
   return (
     <div className="container mx-auto px-4 pt-6 pb-6">
@@ -16,13 +18,13 @@ export default async function BioPage() {
         </div>
         <div className="md:w-3/5">
           <div className="space-y-0">
-            <CollapsibleSection title="Education" items={frontMatter.education} isFirst={true} />
-            <CollapsibleSection title="Residencies" items={frontMatter.residencies} />
-            <CollapsibleSection title="Scenography" items={frontMatter.scenography} />
-            <CollapsibleSection title="Solo & Duo Shows" items={frontMatter.soloAndDuoShows} />
-            <CollapsibleSection title="Group Exhibitions" items={frontMatter.groupExhibitions} />
-            <CollapsibleSection title="Performances" items={frontMatter.performances} />
-            <div className="h-16"></div> {/* Extra space added here */}
+            <CollapsibleSection title="Education" items={bioData.education} isFirst={true} />
+            <CollapsibleSection title="Residencies" items={bioData.residencies} />
+            <CollapsibleSection title="Scenography" items={bioData.scenography} />
+            <CollapsibleSection title="Solo & Duo Shows" items={bioData.soloAndDuoShows} />
+            <CollapsibleSection title="Group Exhibitions" items={bioData.groupExhibitions} />
+            <CollapsibleSection title="Performances" items={bioData.performances} />
+            <div className="h-16"></div>
           </div>
         </div>
       </div>

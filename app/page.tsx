@@ -5,18 +5,12 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import { getImagePath } from './utils/imagePath'
-
-interface ProjectFrontMatter {
-  id: string
-  title: string
-  image: string
-  description: string
-}
+import { Project } from './types'
 
 export default async function Home() {
   const projectsDirectory = path.join(process.cwd(), 'content/projects')
   const filenames = fs.readdirSync(projectsDirectory)
-  const projects: ProjectFrontMatter[] = filenames.map(filename => {
+  const projects: Project[] = filenames.map(filename => {
     const fullPath = path.join(projectsDirectory, filename)
     const fileContents = fs.readFileSync(fullPath, 'utf8')
     const { data } = matter(fileContents)
@@ -24,7 +18,8 @@ export default async function Home() {
       id: filename.replace(/\.md$/, ''),
       title: data.title,
       image: data.image,
-      description: data.description
+      description: data.description,
+      content: data.content
     }
   })
 
