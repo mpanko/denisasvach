@@ -6,16 +6,25 @@ import path from 'path'
 import matter from 'gray-matter'
 import { getImagePath } from './utils/imagePath'
 
+interface ProjectFrontMatter {
+  id: string
+  title: string
+  image: string
+  description: string
+}
+
 export default async function Home() {
   const projectsDirectory = path.join(process.cwd(), 'content/projects')
   const filenames = fs.readdirSync(projectsDirectory)
-  const projects = filenames.map(filename => {
+  const projects: ProjectFrontMatter[] = filenames.map(filename => {
     const fullPath = path.join(projectsDirectory, filename)
     const fileContents = fs.readFileSync(fullPath, 'utf8')
     const { data } = matter(fileContents)
     return {
       id: filename.replace(/\.md$/, ''),
-      ...data
+      title: data.title,
+      image: data.image,
+      description: data.description
     }
   })
 

@@ -3,23 +3,22 @@ import Image from 'next/image'
 import { getImagePath } from '../utils/imagePath'
 
 type ProjectContent = {
-  type: 'text' | 'image';
-  content?: string;
-  src?: string;
-  alt?: string;
-  span?: boolean;
-};
+  type: 'text' | 'image'
+  content?: string
+  src?: string
+  alt?: string
+  span?: boolean
+}
 
 type ProjectDetailProps = {
-  projectId: string
   project: {
     title: string
     content: ProjectContent[]
-    [key: string]: any
+    [key: string]: unknown
   }
 }
 
-export default function ProjectDetail({ projectId, project }: ProjectDetailProps) {
+export default function ProjectDetail({ project }: ProjectDetailProps) {
   return (
     <div className="container mx-auto px-0">
       <h1 className="text-5xl font-bold mb-12 uppercase text-center">{project.title}</h1>
