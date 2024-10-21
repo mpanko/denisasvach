@@ -15,9 +15,30 @@ const config: Config = {
       fontFamily: {
         sans: ['Helvetica', 'Arial', 'sans-serif'],
       },
+      typography: {
+        DEFAULT: {
+          css: {
+            color: 'var(--foreground)',
+            a: {
+              color: 'var(--foreground)',
+              '&:hover': {
+                color: 'var(--background)',
+                backgroundColor: 'var(--foreground)',
+              },
+            },
+            'h1, h2, h3, h4, h5, h6': {
+              color: 'var(--foreground)',
+              textTransform: 'uppercase',
+              fontWeight: 'bold',
+            },
+          },
+        },
+      },
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 };
 
 export default config;

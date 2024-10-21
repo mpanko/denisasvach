@@ -1,17 +1,25 @@
 import React from 'react'
 import Image from 'next/image'
-import { projects } from '../data/projects'
 import { getImagePath } from '../utils/imagePath'
+
+type ProjectContent = {
+  type: 'text' | 'image';
+  content?: string;
+  src?: string;
+  alt?: string;
+  span?: boolean;
+};
 
 type ProjectDetailProps = {
   projectId: string
+  project: {
+    title: string
+    content: ProjectContent[]
+    [key: string]: any
+  }
 }
 
-export default function ProjectDetail({ projectId }: ProjectDetailProps) {
-  const project = projects.find(p => p.id === projectId)
-
-  if (!project) return <div>Project not found</div>
-
+export default function ProjectDetail({ projectId, project }: ProjectDetailProps) {
   return (
     <div className="container mx-auto px-0">
       <h1 className="text-5xl font-bold mb-12 uppercase text-center">{project.title}</h1>

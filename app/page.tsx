@@ -1,10 +1,24 @@
 import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
-import { projects } from './data/projects'
+import fs from 'fs'
+import path from 'path'
+import matter from 'gray-matter'
 import { getImagePath } from './utils/imagePath'
 
-export default function Home() {
+export default async function Home() {
+  const projectsDirectory = path.join(process.cwd(), 'content/projects')
+  const filenames = fs.readdirSync(projectsDirectory)
+  const projects = filenames.map(filename => {
+    const fullPath = path.join(projectsDirectory, filename)
+    const fileContents = fs.readFileSync(fullPath, 'utf8')
+    const { data } = matter(fileContents)
+    return {
+      id: filename.replace(/\.md$/, ''),
+      ...data
+    }
+  })
+
   return (
     <div className="container mx-auto px-0 pt-8 pb-16">
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">

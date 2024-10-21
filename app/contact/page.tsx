@@ -1,13 +1,17 @@
 import React from 'react'
 import Image from 'next/image'
+import FormattedMarkdown from '../components/FormattedMarkdown'
+import { getMarkdownContent } from '../utils/markdown'
 
-export default function ContactPage() {
+export default async function ContactPage() {
+  const { frontMatter, content } = await getMarkdownContent('contact.md')
+
   return (
-    <div className="mx-auto container mx-auto px-4 pt-6 pb-6">
+    <div className="container mx-auto px-4 pt-6 pb-6">
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-1/2">
           <Image
-            src="/contact.jpg"
+            src={frontMatter.image}
             alt="Denisa Svach"
             width={300}
             height={400}
@@ -15,32 +19,7 @@ export default function ContactPage() {
           />
         </div>
         <div className="md:w-1/2">
-          <p className="text-xl mb-6 leading-relaxed">
-            For inquiries about exhibitions, collaborations, or artwork purchases, please don&apos;t hesitate to get in touch.
-          </p>
-          <ul className="text-xl space-y-4">
-            <li>
-              <strong>Email:</strong>{' '}
-              <a href="mailto:info@denisasvach.com" className="underline hover:bg-black hover:text-white">
-                info@denisasvach.com
-              </a>
-            </li>
-            <li>
-              <strong>Instagram:</strong>{' '}
-              <a href="https://www.instagram.com/denisasvach" target="_blank" rel="noopener noreferrer" className="underline hover:bg-black hover:text-white">
-                @denisasvach
-              </a>
-            </li>            
-            <li>
-              <strong>Studio Address:</strong>
-              <br />
-              123 Art Studio Lane
-              <br />
-              Prague, 110 00
-              <br />
-              Czech Republic
-            </li>
-          </ul>
+          <FormattedMarkdown content={content} />
         </div>
       </div>
     </div>
