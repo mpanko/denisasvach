@@ -18,12 +18,14 @@ export default async function BioPage() {
         </div>
         <div className="md:w-3/5">
           <div className="space-y-0">
-            <CollapsibleSection title="Education" items={bioData.education} isFirst={true} />
-            <CollapsibleSection title="Residencies" items={bioData.residencies} />
-            <CollapsibleSection title="Scenography" items={bioData.scenography} />
-            <CollapsibleSection title="Solo & Duo Shows" items={bioData.soloAndDuoShows} />
-            <CollapsibleSection title="Group Exhibitions" items={bioData.groupExhibitions} />
-            <CollapsibleSection title="Performances" items={bioData.performances} />
+            {bioData.sections.map((section, index) => (
+              <CollapsibleSection 
+                key={section.title}
+                title={section.title} 
+                items={section.items} 
+                isFirst={index === 0}
+              />
+            ))}
             <div className="h-16"></div>
           </div>
         </div>

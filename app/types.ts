@@ -23,14 +23,14 @@ export interface BioItem {
   location?: string
 }
 
+export interface BioSection {
+  title: string
+  items: BioItem[]
+}
+
 export interface Bio {
-  education: BioItem[]
-  residencies: BioItem[]
-  scenography: BioItem[]
-  soloAndDuoShows: BioItem[]
-  groupExhibitions: BioItem[]
-  performances: BioItem[]
   content: string
+  sections: BioSection[]
 }
 
 export interface Contact {
