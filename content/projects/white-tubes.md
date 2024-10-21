@@ -1,7 +1,7 @@
 ---
 id: white-tubes
 title: White Tubes
-image: /projects/white-tubes/header.jpg
+image: images/white-tubes-thumbnail.jpg
 description: An immersive installation exploring the interplay of light, space, and form.
 content:
   - type: text
@@ -9,16 +9,16 @@ content:
   - type: text
     content: As visitors navigate through the installation, they experience shifting perspectives and changing light conditions, encouraging a reevaluation of their spatial awareness and sensory perceptions.
   - type: image
-    src: /projects/white-tubes/1.jpg
+    src: images/white-tubes-1.jpg
     alt: White Tubes installation overview
     span: false
   - type: image
-    src: /projects/white-tubes/2.jpg
+    src: images/white-tubes-2.jpg
     alt: Detail of tube structure
   - type: image
-    src: /projects/white-tubes/3.jpg
+    src: images/white-tubes-3.jpg
     alt: Interaction of light and tubes
   - type: image
-    src: /projects/white-tubes/4.jpg
+    src: images/white-tubes-4.jpg
     alt: Visitor engaging with the installation
 ---

@@ -3,7 +3,7 @@ id: spirit-level
 title: Spirit Level
 description: An exploration of balance and equilibrium in both physical and
   metaphysical realms.
-image: /projects/spirit-level/header.jpg
+image: /images/spirit-level-thumbnail.jpg
 content:
   - type: text
     content: Spirit Level is a series that delves into the concept of balance, both
@@ -16,7 +16,7 @@ content:
       Visitors are invited to reflect on their own sense of balance as they
       navigate the space.
   - type: image
-    src: /projects/spirit-level/1.jpg
+    src: /images/spirit-level-1.jpg
     alt: Spirit Level installation view
     span: false
   - type: youtube
@@ -26,13 +26,13 @@ content:
     soundcloudUrl: https://soundcloud.com/octobersveryown/drake-search-rescue
     span: false
   - type: image
-    src: /projects/spirit-level/2.jpg
+    src: /images/spirit-level-2.jpg
     alt: Spirit Level artwork detail
   - type: image
-    src: /projects/spirit-level/3.jpg
+    src: /images/spirit-level-3.jpg
     alt: Spirit Level conceptual piece
   - type: image
-    src: /projects/spirit-level/4.jpg
+    src: /images/spirit-level-4.jpg
     alt: Spirit Level exhibition overview
 ---
 Hello.

@@ -36,7 +36,7 @@ collections:
             fields:
               - {label: "Type", name: "type", widget: "hidden", default: "image"}
               - {label: "Source", name: "src", widget: "image"}
-              - {label: "Alt Text", name: "alt", widget: "string"}
+              - {label: "Image Description", name: "alt", widget: "string"}
               - {label: "Span Full Width", name: "span", widget: "boolean", default: false}
           - label: "YouTube"
             name: "youtube"
