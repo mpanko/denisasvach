@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
+import ReactMarkdown from 'react-markdown'
 import { getImagePath } from '../utils/imagePath'
 import { Project } from '../types'
 import YouTubeEmbed from './YouTubeEmbed'
@@ -16,8 +17,10 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {project.content.map((item, index) => (
           <div key={index} className={item.span ? "col-span-full" : ""}>
-            {item.type === 'text' && (
-              <p className="text-lg leading-relaxed bg-white bg-opacity-80 p-4">{item.content}</p>
+            {item.type === 'text' && item.content && (
+              <div className="prose max-w-none bg-white bg-opacity-80 p-4">
+                <ReactMarkdown>{item.content}</ReactMarkdown>
+              </div>
             )}
             {item.type === 'image' && item.src && (
               <div className="relative aspect-[4/3]">
