@@ -23,6 +23,9 @@ collections:
       - label: "Content"
         name: "content"
         widget: "list"
+        required: true
+        min: 1
+        max: 100
         types:
           - label: "Text"
             name: "text"
@@ -52,7 +55,6 @@ collections:
               - {label: "Type", name: "type", widget: "hidden", default: "soundcloud"}
               - {label: "SoundCloud URL", name: "soundcloudUrl", widget: "string"}
               - {label: "Span Full Width", name: "span", widget: "boolean", default: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
 
   - name: "pages"
     label: "Pages"
