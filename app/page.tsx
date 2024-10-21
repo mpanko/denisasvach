@@ -24,8 +24,8 @@ export default async function Home() {
   })
 
   return (
-    <div className="container mx-auto px-0 pt-8 pb-16">
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
+    <div className="container mx-auto px-4 pt-8 pb-16">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {projects.map((project) => (
           <Link 
             key={project.id}
@@ -33,16 +33,14 @@ export default async function Home() {
             className="block no-underline hover:no-underline group relative"
           >
             <div className="bg-white group-hover:bg-black">
-              <div className="relative w-full" style={{ paddingBottom: '100%' }}>
-                <div className="absolute inset-0 p-4">
-                  <Image
-                    src={getImagePath(project.image)}
-                    alt={project.title}
-                    fill
-                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-                    className="object-cover p-4 group-hover:bg-black"
-                  />
-                </div>
+              <div className="relative aspect-square w-full">
+                <Image
+                  src={getImagePath(project.image)}
+                  alt={project.title}
+                  fill
+                  sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                  className="object-cover p-4 group-hover:bg-black"
+                />
               </div>
               <div className="p-4">
                 <h3 className="text-2xl font-bold uppercase mb-2 group-hover:text-white">

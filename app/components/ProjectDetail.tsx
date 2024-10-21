@@ -12,13 +12,13 @@ type ProjectDetailProps = {
 
 export default function ProjectDetail({ project }: ProjectDetailProps) {
   return (
-    <div className="container mx-auto px-0">
-      <h1 className="text-5xl font-bold mb-12 uppercase text-center">{project.title}</h1>
+    <div className="container mx-auto px-4 py-12">
+      <h1 className="text-5xl font-bold mb-12 uppercase text-center text-white">{project.title}</h1>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {project.content.map((item, index) => (
           <div key={index} className={item.span ? "col-span-full" : ""}>
             {item.type === 'text' && item.content && (
-              <div className="prose max-w-none bg-white bg-opacity-80 p-4">
+              <div className="prose max-w-none">
                 <ReactMarkdown>{item.content}</ReactMarkdown>
               </div>
             )}

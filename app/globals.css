@@ -39,9 +39,39 @@ a:hover {
 }
 
 .bg-black {
-  background-color: var(--foreground);
+  background-color: #000000;
 }
 
 .text-white {
-  color: var(--background);
+  color: #ffffff;
+}
+
+/* Project detail page specific styles */
+.bg-black.text-white {
+  --background: #000000;
+  --foreground: #ffffff;
+}
+
+.bg-black.text-white .prose-invert {
+  --tw-prose-body: #ffffff;
+  --tw-prose-headings: #ffffff;
+  --tw-prose-lead: #ffffff;
+  --tw-prose-links: #ffffff;
+  --tw-prose-bold: #ffffff;
+  --tw-prose-counters: #ffffff;
+  --tw-prose-bullets: #ffffff;
+  --tw-prose-hr: #ffffff;
+  --tw-prose-quotes: #ffffff;
+  --tw-prose-quote-borders: #ffffff;
+  --tw-prose-captions: #ffffff;
+  --tw-prose-code: #ffffff;
+  --tw-prose-pre-code: #000000;
+  --tw-prose-pre-bg: #ffffff;
+  --tw-prose-th-borders: #ffffff;
+  --tw-prose-td-borders: #ffffff;
+}
+
+.bg-black.text-white a:hover {
+  background-color: #ffffff;
+  color: #000000;
 }

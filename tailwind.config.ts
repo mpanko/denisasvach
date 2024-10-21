@@ -15,7 +15,7 @@ const config: Config = {
       fontFamily: {
         sans: ['Helvetica', 'Arial', 'sans-serif'],
       },
-      typography: {
+      typography: () => ({
         DEFAULT: {
           css: {
             color: 'var(--foreground)',
@@ -33,12 +33,26 @@ const config: Config = {
             },
           },
         },
-      },
+        invert: {
+          css: {
+            color: 'var(--background)',
+            a: {
+              color: 'var(--background)',
+              '&:hover': {
+                color: 'var(--foreground)',
+                backgroundColor: 'var(--background)',
+              },
+            },
+            'h1, h2, h3, h4, h5, h6': {
+              color: 'var(--background)',
+            },
+          },
+        },
+      }),
     },
   },
   plugins: [
     require('@tailwindcss/typography'),
-    require('@tailwindcss/aspect-ratio'),
   ],
 };
 

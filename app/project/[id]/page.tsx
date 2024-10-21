@@ -17,7 +17,7 @@ export default async function ProjectPage({ params }: { params: { id: string } }
       ...frontMatter as Omit<Project, 'id'>
     }
     return (
-      <div className="container mx-auto px-4 pt-8 pb-16">
+      <div className="bg-black text-white">
         <ProjectDetail project={projectData} />
       </div>
     )
