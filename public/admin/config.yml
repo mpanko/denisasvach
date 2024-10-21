@@ -1,0 +1,86 @@
+backend:
+  name: github
+  repo: your-github-username/your-repo-name
+  branch: main # or whichever branch you're using for deployment
+
+
+local_backend: true
+
+media_folder: public/images
+public_folder: /images
+
+collections:
+  - name: "projects"
+    label: "Projects"
+    folder: "content/projects"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "ID", name: "id", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Description", name: "description", widget: "text"}
+      - label: "Content"
+        name: "content"
+        widget: "list"
+        types:
+          - label: "Text"
+            name: "text"
+            widget: "object"
+            fields:
+              - {label: "Type", name: "type", widget: "hidden", default: "text"}
+              - {label: "Content", name: "content", widget: "markdown"}
+          - label: "Image"
+            name: "image"
+            widget: "object"
+            fields:
+              - {label: "Type", name: "type", widget: "hidden", default: "image"}
+              - {label: "Source", name: "src", widget: "image"}
+              - {label: "Alt Text", name: "alt", widget: "string"}
+              - {label: "Span Full Width", name: "span", widget: "boolean", default: false}
+          - label: "YouTube"
+            name: "youtube"
+            widget: "object"
+            fields:
+              - {label: "Type", name: "type", widget: "hidden", default: "youtube"}
+              - {label: "YouTube ID", name: "youtubeId", widget: "string"}
+              - {label: "Span Full Width", name: "span", widget: "boolean", default: false}
+          - label: "SoundCloud"
+            name: "soundcloud"
+            widget: "object"
+            fields:
+              - {label: "Type", name: "type", widget: "hidden", default: "soundcloud"}
+              - {label: "SoundCloud URL", name: "soundcloudUrl", widget: "string"}
+              - {label: "Span Full Width", name: "span", widget: "boolean", default: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "content/bio.md"
+        label: "Bio"
+        name: "bio"
+        fields:
+          - label: "Sections"
+            name: "sections"
+            widget: "list"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - label: "Items"
+                name: "items"
+                widget: "list"
+                fields:
+                  - {label: "Year", name: "year", widget: "string"}
+                  - {label: "Title", name: "title", widget: "string"}
+                  - {label: "Institution", name: "institution", widget: "string", required: false}
+                  - {label: "Location", name: "location", widget: "string", required: false}
+                  - {label: "Type", name: "type", widget: "string", required: false}
+                  - {label: "Description", name: "description", widget: "string", required: false}
+          - {label: "Content", name: "body", widget: "markdown"}
+
+      - file: "content/contact.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Content", name: "body", widget: "markdown"}
