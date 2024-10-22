@@ -3,6 +3,7 @@ backend:
   repo: mpanko/denisasvach
   branch: main
   base_url: https://myauth.yellowzelo.workers.dev/
+  auth_endpoint: auth
 
 
 local_backend: true
