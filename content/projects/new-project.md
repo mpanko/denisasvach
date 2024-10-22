@@ -1,5 +1,5 @@
 ---
-id: new-project
+id: new-project-aaa
 title: New project
 image: /images/breaking-bread-3.jpg
 description: asda sd
