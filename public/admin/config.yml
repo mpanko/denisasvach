@@ -1,7 +1,8 @@
 backend:
   name: github
-  repo: your-github-username/your-repo-name
-  branch: main # or whichever branch you're using for deployment
+  repo: mpanko/denisasvach
+  branch: main
+  base_url: https://myauth.yellowzelo.workers.dev/
 
 
 local_backend: true
