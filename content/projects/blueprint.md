@@ -1,7 +1,7 @@
 ---
 id: blueprint
 title: Blueprint
-image: /images/albert_einstein.jpg
+image: /images/blueprint-thumbnail.jpg
 description: A conceptual exploration of architectural plans and their impact on
   lived spaces.
 content:
