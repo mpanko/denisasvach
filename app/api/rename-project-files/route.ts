@@ -6,7 +6,7 @@ import matter from 'gray-matter'
 async function renameFiles() {
   const contentDir = path.join(process.cwd(), 'content/projects')
   const files = await fs.readdir(contentDir)
-  let renamedFiles = []
+  const renamedFiles = []
 
   for (const file of files) {
     if (path.extname(file) === '.md') {
