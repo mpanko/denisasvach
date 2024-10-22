@@ -9,6 +9,9 @@ local_backend: true
 media_folder: public/images
 public_folder: /images
 
+webhook:
+  url: https://mpanko.github.io/denisasvach/api/rename-project-files
+
 collections:
   - name: "projects"
     label: "Projects"
