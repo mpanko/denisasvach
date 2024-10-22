@@ -45,21 +45,21 @@ collections:
               - {label: "Type", name: "type", widget: "hidden", default: "image"}
               - {label: "Source", name: "src", widget: "image"}
               - {label: "Image Description", name: "alt", widget: "string"}
-              - {label: "Span Full Width", name: "span", widget: "boolean", default: false}
+              - {label: "Span Full Width", name: "span", widget: "boolean", default: false, required: false}
           - label: "YouTube"
             name: "youtube"
             widget: "object"
             fields:
               - {label: "Type", name: "type", widget: "hidden", default: "youtube"}
               - {label: "YouTube ID", name: "youtubeId", widget: "string"}
-              - {label: "Span Full Width", name: "span", widget: "boolean", default: false}
+              - {label: "Span Full Width", name: "span", widget: "boolean", default: false, required: false}
           - label: "SoundCloud"
             name: "soundcloud"
             widget: "object"
             fields:
               - {label: "Type", name: "type", widget: "hidden", default: "soundcloud"}
               - {label: "SoundCloud URL", name: "soundcloudUrl", widget: "string"}
-              - {label: "Span Full Width", name: "span", widget: "boolean", default: false}
+              - {label: "Span Full Width", name: "span", widget: "boolean", default: false, required: false}
               
   - name: "pages"
     label: "Pages"
