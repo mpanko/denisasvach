@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: mpanko/denisasvach
   branch: main
   base_url: https://myauth.yellowzelo.workers.dev/
