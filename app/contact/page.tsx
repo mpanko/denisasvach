@@ -2,6 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import FormattedMarkdown from '../components/FormattedMarkdown'
 import { getMarkdownContent } from '../utils/markdown'
+import { getImagePath } from '../utils/imagePath'
 import { Contact } from '../types'
 
 export default async function ContactPage() {
@@ -13,7 +14,7 @@ export default async function ContactPage() {
       <div className="flex flex-col md:flex-row gap-8">
         <div className="md:w-1/2">
           <Image
-            src={contactData.image}
+            src={getImagePath(contactData.image)}
             alt="Denisa Svach"
             width={300}
             height={400}
