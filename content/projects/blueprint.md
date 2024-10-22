@@ -29,4 +29,6 @@ content:
   - type: image
     src: /images/blueprint-4.jpg
     alt: Close-up of blueprint details
+  - type: text
+    content: Toto je **text**
 ---
