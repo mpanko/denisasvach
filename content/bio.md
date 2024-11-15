@@ -162,7 +162,7 @@ sections:
         type: Artist Residency
         location: Prague, Czech Republic
       - year: 2019
-        title: Studio The Hive
+        title: The Hive
         type: Erasmus + Traineeship
         location: London, UK
       - year: 2018
