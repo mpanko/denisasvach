@@ -14,4 +14,8 @@ content:
     content: |-
       
       Costume Design: Denisa Svachova for Richard Blasko's video project Dutina
+  - type: image
+    span: true
+    src: /images/thumbnail-image.jpg
+    alt: test
 ---
