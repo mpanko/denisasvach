@@ -2,7 +2,8 @@
 id: spinning-interview
 title: Spinning Interview
 image: /images/spinning-interview-thumbnail.jpg
-description: A dynamic performance piece exploring communication and perspective.
+description: An interactive installation exploring the concept of home through
+  spinning and real-time speech-to-text technology.
 content:
   - type: text
     content: >-
