@@ -5,9 +5,26 @@ image: /images/spinning-interview-thumbnail.jpg
 description: A dynamic performance piece exploring communication and perspective.
 content:
   - type: text
-    content: Spinning Interview is a performance-based project that challenges traditional notions of communication and perspective. In this work, participants engage in a conversation while seated on a slowly rotating platform, creating a constantly shifting physical and psychological dynamic.
+    content: >-
+      
+
+
+      *Spinning Interview* centers on the theme of home, seamlessly blending the activity of spinning with interview-style discussions. The project offers a contemplative exploration of personal narratives surrounding the notion of home. It leverages real-time speech-to-text technology and bespoke musical compositions to create an engaging and immersive experience for both participants and observers.
+
+
+      Visitors were invited individually to step behind a semi-transparent curtain, where instruction cards guided them to keep turning around while answering questions into a microphone. Other visitors could observe the responder through the curtain and read the answers displayed in real-time on a screen and website.
   - type: text
-    content: The project explores how physical movement and changing viewpoints affect our ability to communicate and understand one another. By introducing an element of disorientation, Spinning Interview encourages participants and viewers to reconsider their assumptions about interpersonal interactions and the role of context in shaping our perceptions.
+    content: >-
+      [](https://soundcloud.com/denisa-vachov/spinning-interview)**Concept,
+      scenography:** Denisa Svachova
+
+      **Music:** Julie Lupacova
+
+      **AI:** Matus Zilinec
+
+
+
+      [Listen on SoundCloud](https://soundcloud.com/denisa-vachov/spinning-interview)
   - type: image
     src: /images/spinning-interview-1.jpg
     alt: Overview of Spinning Interview performance
