@@ -19,9 +19,14 @@ content:
       [](https://soundcloud.com/denisa-vachov/spinning-interview)Concept,
       scenography: Denisa Svachova
 
+
+
       Music: Julie Lupacova
 
+
+
       AI: Matus Zilinec
+
 
 
 
