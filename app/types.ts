@@ -14,6 +14,7 @@ export interface Project {
   image: string
   description: string
   content: ProjectContent[]
+  order: number
 }
 
 export interface BioItem {

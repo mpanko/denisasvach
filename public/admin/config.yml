@@ -20,9 +20,11 @@ collections:
     slug: "{{id}}"
     identifier_field: "id"
     clean_accents: true
+    sortable_fields: ['order']
     fields:
       - {label: "Project ID", name: "id", widget: "string", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Must be lowercase letters, numbers, and hyphens only"]}
       - {label: "Project Title", name: "title", widget: "string"}
+      - {label: "Order in Portfolio", name: "order", widget: "number", value_type: "int", default: 0}
       - {label: "Thumbnail Image", name: "image", widget: "image"}
       - {label: "Project Description", name: "description", widget: "text"}
       - label: "Project Content"

@@ -10,18 +10,21 @@ import { Project } from './types'
 export default async function Home() {
   const projectsDirectory = path.join(process.cwd(), 'content/projects')
   const filenames = fs.readdirSync(projectsDirectory)
-  const projects: Project[] = filenames.map(filename => {
-    const fullPath = path.join(projectsDirectory, filename)
-    const fileContents = fs.readFileSync(fullPath, 'utf8')
-    const { data } = matter(fileContents)
-    return {
-      id: filename.replace(/\.md$/, ''),
-      title: data.title,
-      image: data.image,
-      description: data.description,
-      content: data.content
-    }
-  })
+  const projects: Project[] = filenames
+    .map(filename => {
+      const fullPath = path.join(projectsDirectory, filename)
+      const fileContents = fs.readFileSync(fullPath, 'utf8')
+      const { data } = matter(fileContents)
+      return {
+        id: filename.replace(/\.md$/, ''),
+        title: data.title,
+        image: data.image,
+        description: data.description,
+        content: data.content,
+        order: data.order || 0
+      }
+    })
+    .sort((a, b) => a.order - b.order)
 
   return (
     <div className="container mx-auto px-4 pt-8 pb-16">
