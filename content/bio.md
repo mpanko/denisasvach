@@ -141,6 +141,11 @@ sections:
         location: NoD Gallery, Prague, Czech Republic
   - title: Residencies and Workshops
     items:
+      - year: "2024"
+        title: " A Gathering Sisterhood & Makramee "
+        institution: Tanzhaus
+        location: Zürich, Switzerland
+        type: Dance Workshop
       - year: 2022
         title: "Rathaus für Kultur: Analog + Virtual Bodies"
         type: Dance Workshop
@@ -184,11 +189,6 @@ sections:
         title: Prague Quadriennal
         type: Workshop of Light Design and Scenography
         location: Prague, Czech Republic
-      - year: "2024"
-        title: " A Gathering Sisterhood & Makramee "
-        institution: Tanzhaus
-        location: Zürich, Switzerland
-        type: Dance Workshop
   - title: Education
     items:
       - year: 2021 - 2023
