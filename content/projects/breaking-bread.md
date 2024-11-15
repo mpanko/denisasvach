@@ -1,13 +1,20 @@
 ---
 id: breaking-bread
 title: Breaking Bread
+order: 10
 image: /images/breaking-bread-thumbnail.jpg
 description: A performance-based project exploring communal dining and social connections.
 content:
   - type: text
-    content: Breaking Bread is a performance-based project that investigates the social and cultural significance of shared meals. Through a series of curated dining experiences, this work explores how food and the act of eating together can create and strengthen community bonds.
+    content: Breaking Bread is a performance-based project that investigates the
+      social and cultural significance of shared meals. Through a series of
+      curated dining experiences, this work explores how food and the act of
+      eating together can create and strengthen community bonds.
   - type: text
-    content: Participants are invited to engage in carefully choreographed dining rituals, encouraging conversations and connections that transcend cultural and social boundaries. The project documents these interactions, creating a visual narrative of shared human experiences.
+    content: Participants are invited to engage in carefully choreographed dining
+      rituals, encouraging conversations and connections that transcend cultural
+      and social boundaries. The project documents these interactions, creating
+      a visual narrative of shared human experiences.
   - type: image
     src: /images/breaking-bread-1.jpg
     alt: Overview of Breaking Bread performance
