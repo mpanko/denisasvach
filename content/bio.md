@@ -35,6 +35,28 @@ sections:
         type: Stage Design
         description: Performance by Alica Minar
         location: Prague, Czechia
+  - title: Video-production
+    items:
+      - description: Concept, direction, set design, and post-production of the music video
+        title: Orka - Pearl
+        type: Music video for Columbo Record
+        year: "2023"
+      - type: Concept, direction and camera
+        title: Do You Mind If I Join You?
+        year: "2022"
+        description: Series of six interviews where expats respond in speech and body
+      - year: "2020"
+        title: Under the Velvet
+        description: ""
+        type: Trailer for dance Performance by Marketa Pscolkova
+      - type: Assistant of direction and scenography
+        title: Sean F Carter - Queen of Hearts
+        description: Music video
+        year: "2019"
+      - year: "2018"
+        description: Video performance observing reactions to commands
+        type: Concept, direction and post-production
+        title: Breaking Bread
   - title: Performances
     items:
       - year: 2023
@@ -215,28 +237,6 @@ sections:
         title: "Concept-Object-Meaning Studio "
         institution: Student Exchange at Academy of Arts, Architecture and Design
         location: Prague, Czech Republic
-  - title: Video-production
-    items:
-      - description: Concept, direction, set design, and post-production of the music video
-        title: Orka - Pearl
-        type: Music video for Columbo Record
-        year: "2023"
-      - type: Concept, direction and camera
-        title: Do You Mind If I Join You?
-        year: "2022"
-        description: Series of six interviews where expats respond in speech and body
-      - year: "2020"
-        title: Under the Velvet
-        description: ""
-        type: Trailer for dance Performance by Marketa Pscolkova
-      - type: Assistant of direction and scenography
-        title: Sean F Carter - Queen of Hearts
-        description: Music video
-        year: "2019"
-      - year: "2018"
-        description: Video performance observing reactions to commands
-        type: Concept, direction and post-production
-        title: Breaking Bread
 ---
 I am fascinated by people's immediate reactions to commands—how they behave, move, and express emotions. Observing these first impulses, I aim to understand individuals and their contexts better.
 
