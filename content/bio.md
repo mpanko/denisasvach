@@ -142,8 +142,8 @@ sections:
   - title: Residencies and Workshops
     items:
       - year: "2024"
-        title: " A Gathering Sisterhood & Makramee "
-        institution: Tanzhaus
+        title: "Tanzhaus: A Gathering Sisterhood & Makramee "
+        institution: ""
         location: Zürich, Switzerland
         type: Dance Workshop
       - year: 2022
