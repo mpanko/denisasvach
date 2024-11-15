@@ -15,12 +15,12 @@ content:
       Visitors were invited individually to step behind a semi-transparent curtain, where instruction cards guided them to keep turning around while answering questions into a microphone. Other visitors could observe the responder through the curtain and read the answers displayed in real-time on a screen and website.
   - type: text
     content: >-
-      [](https://soundcloud.com/denisa-vachov/spinning-interview)**Concept,
-      scenography:** Denisa Svachova
+      [](https://soundcloud.com/denisa-vachov/spinning-interview)Concept,
+      scenography: Denisa Svachova
 
-      **Music:** Julie Lupacova
+      Music: Julie Lupacova
 
-      **AI:** Matus Zilinec
+      AI: Matus Zilinec
 
 
 
