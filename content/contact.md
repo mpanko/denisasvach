@@ -1,13 +1,14 @@
 ---
-image: /images/portrait-contact.jpg
+image: /images/contact_image.jpg
 ---
-For inquiries about exhibitions, collaborations, or artwork purchases, please don't hesitate to get in touch.
 
-**Email:** [info@denisasvach.com](mailto:info@denisasvach.com)
+If you'd like to visit my studio, talk about creating a costume or set design for your performance, work on a video, or explore other collaborations, feel free to get in touch. I'm happy to make you a coffee and chat about your ideas.
+
+**Email:** [denisasvach@gmail.com](mailto:info@denisasvach.com)
 
 **Instagram:** [@denisasvach](https://www.instagram.com/denisasvach)
 
 **Studio Address:**\
-123 Art Studio Lane\
-Prague, 110 00\
-Czech Republic
+Hofackerstrasse 13\
+8032 Zürich\
+Switzerland
