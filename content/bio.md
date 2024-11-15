@@ -21,7 +21,7 @@ sections:
   - title: Residencies and Workshops
     items:
       - year: 2022
-        title: Rathaus für Kultur: Analog + Virtual Bodies
+        title: "Rathaus für Kultur: Analog + Virtual Bodies"
         type: Dance Workshop
         location: Lichtensteig, Switzerland
       - year: 2021
