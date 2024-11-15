@@ -84,8 +84,8 @@ sections:
         description: ACT Performance Festival
         location: Biel, Switzerland
 ---
-I am fascinated by people's immediate reactions to commands - how they behave, move, and express emotions. Observing these first impulses, I aim to better understand individuals and their contexts.
+I am fascinated by people's immediate reactions to commands—how they behave, move, and express emotions. Observing these first impulses, I aim to understand individuals and their contexts better.
 
-My artistic practice revolves around the relationship between natural movement and choreography, often framed by spatial installations. I explore various situations, actively engaging the audience. In my performances, I often use voice-over to direct movement or interactions with objects and costumes. I refer to these interactive works as "self-service performances," where the audience shapes the experience in my absence.
+My artistic practice revolves around the relationship between natural movement and choreography, often framed by spatial installations. I explore various situations, actively engaging the audience. In my performances, I use voice-over to direct movement or interactions with objects and costumes. I refer to these interactive works as "self-service performances," where the audience shapes the experience in my absence.
 
-I create videos and costumes for both my own projects and for performers. My set designs are primarily for contemporary dance, but I am open to collaborating on any project where scenography can enhance the experience.
+I create videos and costumes for both, my own projects and for other performers. My set designs are primarily for contemporary dance, but I am open to collaborating on any project where scenography can enhance the experience.
