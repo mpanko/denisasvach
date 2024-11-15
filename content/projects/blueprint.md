@@ -1,6 +1,7 @@
 ---
 id: blueprint
 title: Blueprint
+order: 5
 image: /images/blueprint-thumbnail.jpg
 description: A conceptual exploration of architectural plans and their impact on
   lived spaces.
