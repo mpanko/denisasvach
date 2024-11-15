@@ -195,12 +195,12 @@ sections:
         institution: Academy of Fine Arts in Prague
         location: Prague, Czech Republic
       - year: 2015 - 2016
-        title: Student Exchange
-        institution: Institut Seni Indonesia
+        title: Sculpture Studio
+        institution: Student Exchange at Institut Seni Indonesia
         location: Yogyakarta, Indonesia
       - year: 2014 - 2015
-        title: Student Exchange
-        institution: Academy of Arts, Architecture and Design
+        title: "Concept-Object-Meaning Studio "
+        institution: Student Exchange at Academy of Arts, Architecture and Design
         location: Prague, Czech Republic
 ---
 I am fascinated by people's immediate reactions to commands—how they behave, move, and express emotions. Observing these first impulses, I aim to understand individuals and their contexts better.
