@@ -1,13 +1,20 @@
 ---
 id: latent-potential
 title: Latent Potential
+order: 10
 image: /images/latent-potential-thumbnail.jpg
 description: An exploration of hidden possibilities within everyday objects and spaces.
 content:
   - type: text
-    content: Latent Potential is a mixed-media project that uncovers and activates the hidden possibilities within everyday objects and spaces. Through a series of interventions and transformations, this work challenges viewers to reconsider their perceptions of the familiar and the overlooked.
+    content: Latent Potential is a mixed-media project that uncovers and activates
+      the hidden possibilities within everyday objects and spaces. Through a
+      series of interventions and transformations, this work challenges viewers
+      to reconsider their perceptions of the familiar and the overlooked.
   - type: text
-    content: The installation features common items that have been reimagined and repurposed, revealing unexpected forms and functions. Visitors are encouraged to interact with these transformed objects, discovering new potentials in the seemingly mundane.
+    content: The installation features common items that have been reimagined and
+      repurposed, revealing unexpected forms and functions. Visitors are
+      encouraged to interact with these transformed objects, discovering new
+      potentials in the seemingly mundane.
   - type: image
     src: /images/latent-potential-1.jpg
     alt: Overview of Latent Potential installation
