@@ -47,7 +47,7 @@ content:
     alt: Spinning Interview installation
   - type: youtube
     span: false
-    youtubeId: https://www.youtube.com/watch?v=0J53wXDVezQ
+    youtubeId: 0J53wXDVezQ
   - type: image
     span: false
     src: /images/spinning-interview_3.jpg
