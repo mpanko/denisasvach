@@ -1,7 +1,8 @@
 ---
 id: spinning-interview
 title: Spinning Interview
-image: /images/spinning-interview-thumbnail.jpg
+order: 2
+image: /images/thumbnail-image.jpg
 description: An interactive installation exploring the concept of home through
   spinning and real-time speech-to-text technology.
 content:
