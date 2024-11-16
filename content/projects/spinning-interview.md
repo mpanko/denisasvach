@@ -2,19 +2,25 @@
 id: spinning-interview
 title: Spinning Interview
 order: 2
-image: /images/thumbnail-image.jpg
+image: /images/spinning-interview_thumbnail-image.jpg
 description: An interactive installation exploring the concept of home through
   spinning and real-time speech-to-text technology.
 content:
   - type: text
     content: >-
-      
-
-
-      *Spinning Interview* centers on the theme of home, seamlessly blending the activity of spinning with interview-style discussions. The project offers a contemplative exploration of personal narratives surrounding the notion of home. It leverages real-time speech-to-text technology and bespoke musical compositions to create an engaging and immersive experience for both participants and observers.
+      *Spinning Interview* centers on the theme of home, seamlessly blending the
+      activity of spinning with interview-style discussions. The project offers
+      a contemplative exploration of personal narratives surrounding the notion
+      of home. It leverages real-time speech-to-text technology and bespoke
+      musical compositions to create an engaging and immersive experience for
+      both participants and observers.
 
 
       Visitors were invited individually to step behind a semi-transparent curtain, where instruction cards guided them to keep turning around while answering questions into a microphone. Other visitors could observe the responder through the curtain and read the answers displayed in real-time on a screen and website.
+
+
+
+      The interactive installation *Spinning Interview* was exhibited at the Control exhibition at the Toni Areal in Zurich, Switzerland in 2024
   - type: text
     content: >-
       [](https://soundcloud.com/denisa-vachov/spinning-interview)Concept,
@@ -33,16 +39,24 @@ content:
 
       [Listen on SoundCloud](https://soundcloud.com/denisa-vachov/spinning-interview)
   - type: image
-    src: /images/spinning-interview-1.jpg
-    alt: Overview of Spinning Interview performance
+    src: /images/spinning-interview_1.jpg
+    alt: Spinning Interview installation
     span: true
   - type: image
-    src: /images/spinning-interview-2.jpg
-    alt: Participants engaged in rotating conversation
-  - type: image
-    src: /images/spinning-interview-3.jpg
-    alt: Detail of rotating platform mechanism
+    src: /images/spinning-interview_2.jpg
+    alt: Spinning Interview installation
   - type: image
     src: /images/spinning-interview-4.jpg
     alt: Audience viewing the Spinning Interview performance
+  - type: youtube
+    span: false
+    youtubeId: https://www.youtube.com/watch?v=0J53wXDVezQ
+  - type: image
+    span: false
+    src: /images/spinning-interview_3.jpg
+    alt: Spinning Interview installation
+  - type: image
+    span: false
+    src: /images/spinning-interview_4.jpg
+    alt: spinning around
 ---
