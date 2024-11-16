@@ -2,7 +2,7 @@
 id: dutina
 title: Dutina
 order: 1
-image: /images/thumbnail-image.jpg
+image: /images/dutina_thumbnail-image.jpg
 description: A video work that explores the boundaries between the inner and
   outer realms through the symbolism of a lace mask.
 content:
@@ -24,30 +24,30 @@ content:
       Costume Design: Denisa Svachova for Richard Blasko's video project Dutina
   - type: image
     span: true
-    src: /images/1.jpg
+    src: /images/dutina_1.jpg
     alt: lace mask
   - type: image
     span: false
-    src: /images/3.webp
+    src: /images/dutina_3.webp
     alt: video-installation
   - type: image
     span: false
-    src: /images/4.webp
+    src: /images/dutina_4.webp
     alt: video-installation
   - type: image
     span: false
-    src: /images/2.webp
+    src: /images/dutina_2.webp
     alt: video-installation
   - type: image
     span: false
-    src: /images/dscf7342.webp
+    src: /images/dutina_7.webp
     alt: video-installation
   - type: image
     span: false
-    src: /images/7.jpg
+    src: /images/dutina_6.jpg
     alt: lace mask
   - type: image
     span: false
-    src: /images/6.jpg
+    src: /images/dutina_5.jpg
     alt: screenshot
 ---
