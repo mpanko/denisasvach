@@ -2,7 +2,7 @@
 id: dutina
 title: Dutina
 order: 1
-image: /images/thumbnail-image.jpg
+image: /images/dscf7342.webp
 description: A video work that explores the boundaries between the inner and
   outer realms through the symbolism of a lace mask.
 content:
