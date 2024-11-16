@@ -56,7 +56,7 @@ content:
     src: /images/spinning-interview_3.jpg
     alt: Spinning Interview installation
   - type: image
-    span: false
+    span: true
     src: /images/spinning-interview_4.jpg
     alt: spinning around
 ---
