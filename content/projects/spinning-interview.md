@@ -45,9 +45,6 @@ content:
   - type: image
     src: /images/spinning-interview_2.jpg
     alt: Spinning Interview installation
-  - type: image
-    src: /images/spinning-interview-4.jpg
-    alt: Audience viewing the Spinning Interview performance
   - type: youtube
     span: false
     youtubeId: https://www.youtube.com/watch?v=0J53wXDVezQ
