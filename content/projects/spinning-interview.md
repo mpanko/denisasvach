@@ -41,7 +41,7 @@ content:
   - type: image
     src: /images/spinning-interview_1.jpg
     alt: Spinning Interview installation
-    span: true
+    span: false
   - type: image
     src: /images/spinning-interview_2.jpg
     alt: Spinning Interview installation
