@@ -37,14 +37,6 @@ content:
       [Listen on SoundCloud](https://soundcloud.com/tvaryshapes/desert?si=b1ad62b066014c668a09b87c4053dd7a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - type: image
     span: false
-    src: /images/back-into-the-desert_1.jpeg
-    alt: Back Into The Desert
-  - type: image
-    span: false
-    src: /images/back-into-the-desert_2.jpeg
-    alt: Back Into The Desert
-  - type: image
-    span: false
     src: /images/back-into-the-desert_3.jpeg
     alt: Back Into The Desert
   - type: image
