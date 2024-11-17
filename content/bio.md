@@ -105,7 +105,8 @@ sections:
     items:
       - year: 2017
         title: In the Heat of 7'
-        location: Mladí a Neklidní Gallery, Prague, Czech Republic
+        location: Prague, Czech Republic
+        institution: Mladí a Neklidní gallery
       - year: 2017
         title: Group Picture
         location: Polagraph Gallery, Prague, Czech Republic
@@ -115,6 +116,10 @@ sections:
       - year: 2014
         title: Poetry Box
         location: Garáž Gallery, Zlin, Czech Republic
+      - year: "2013"
+        title: Collecting Addictions
+        institution: GAVU
+        location: Prague, Czech Republic
   - title: Group Exhibitions
     items:
       - year: 2023
