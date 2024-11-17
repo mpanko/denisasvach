@@ -2,11 +2,12 @@ import React from 'react'
 
 interface YouTubeEmbedProps {
   videoId: string
+  vertical?: boolean
 }
 
-const YouTubeEmbed: React.FC<YouTubeEmbedProps> = ({ videoId }) => {
+const YouTubeEmbed: React.FC<YouTubeEmbedProps> = ({ videoId, vertical = false }) => {
   return (
-    <div className="aspect-w-16 aspect-h-9">
+    <div className={`${vertical ? 'aspect-[3/4]' : 'aspect-[4/3]'}`}>
       <iframe
         src={`https://www.youtube.com/embed/${videoId}`}
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

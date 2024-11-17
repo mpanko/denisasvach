@@ -34,7 +34,7 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
               </div>
             )}
             {item.type === 'youtube' && item.youtubeId && (
-              <YouTubeEmbed videoId={item.youtubeId} />
+              <YouTubeEmbed videoId={item.youtubeId} vertical={item.vertical} />
             )}
             {item.type === 'soundcloud' && item.soundcloudUrl && (
               <SoundCloudEmbed url={item.soundcloudUrl} />
