@@ -39,6 +39,7 @@ content:
     span: false
     src: /images/back-into-the-desert_3.jpeg
     alt: Back Into The Desert
+    vertical: true
   - type: image
     span: false
     src: /images/back-into-the-desert_4.jpeg
