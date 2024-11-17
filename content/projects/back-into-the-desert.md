@@ -66,7 +66,7 @@ content:
     alt: Back Into The Desert
     vertical: true
   - type: youtube
-    span: true
+    span: false
     youtubeId: ALCvpMT-YyM
     vertical: false
 ---
