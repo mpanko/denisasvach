@@ -45,7 +45,7 @@ content:
     alt: Back Into The Desert
   - type: image
     span: false
-    src: /images/back-into-the-desert_5.jpeg
+    src: /images/back-into-the-desert_7.jpeg
     alt: Back Into The Desert
   - type: image
     span: false
@@ -53,7 +53,7 @@ content:
     alt: Back Into The Desert
   - type: image
     span: false
-    src: /images/back-into-the-desert_7.jpeg
+    src: /images/back-into-the-desert_5.jpeg
     alt: Back Into The Desert
   - type: image
     span: false
