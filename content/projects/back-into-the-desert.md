@@ -49,19 +49,24 @@ content:
     span: false
     src: /images/back-into-the-desert_7.jpeg
     alt: Back Into The Desert
+    vertical: true
   - type: image
     span: false
     src: /images/back-into-the-desert_6.jpeg
     alt: Back Into The Desert
+    vertical: true
   - type: image
     span: false
     src: /images/back-into-the-desert_5.jpeg
     alt: Back Into The Desert
+    vertical: true
   - type: image
     span: false
     src: /images/back-into-the-desert_8.jpeg
     alt: Back Into The Desert
+    vertical: true
   - type: youtube
     span: true
     youtubeId: ALCvpMT-YyM
+    vertical: false
 ---
