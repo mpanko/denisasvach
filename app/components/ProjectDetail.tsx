@@ -23,7 +23,7 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
               </div>
             )}
             {item.type === 'image' && item.src && (
-              <div className="relative aspect-[4/3]">
+              <div className={`relative ${item.vertical ? 'aspect-[3/4]' : 'aspect-[4/3]'}`}>
                 <Image
                   src={getImagePath(item.src)}
                   alt={item.alt || ''}

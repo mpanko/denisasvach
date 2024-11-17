@@ -6,6 +6,7 @@ export interface ProjectContent {
   span?: boolean
   youtubeId?: string
   soundcloudUrl?: string
+  vertical?: boolean
 }
 
 export interface Project {

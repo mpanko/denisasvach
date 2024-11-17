@@ -48,6 +48,7 @@ collections:
               - {label: "Source", name: "src", widget: "image"}
               - {label: "Image Description", name: "alt", widget: "string"}
               - {label: "Span Full Width", name: "span", widget: "boolean", default: false, required: false}
+              - {label: "Vertical Image", name: "vertical", widget: "boolean", default: false, required: false}
           - label: "YouTube"
             name: "youtube"
             widget: "object"
