@@ -42,18 +42,20 @@ content:
     src: /images/spinning-interview_1.jpg
     alt: Spinning Interview installation
     span: false
+    vertical: true
   - type: image
     src: /images/spinning-interview_2.jpg
     alt: Spinning Interview installation
+    vertical: true
   - type: youtube
-    span: true
+    span: false
     youtubeId: 0J53wXDVezQ
   - type: image
     span: false
     src: /images/spinning-interview_3.jpg
     alt: Spinning Interview installation
   - type: image
-    span: false
+    span: true
     src: /images/spinning-interview_4.jpg
     alt: spinning around
 ---
