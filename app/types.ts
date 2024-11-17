@@ -1,10 +1,11 @@
 export interface ProjectContent {
-  type: 'text' | 'image' | 'youtube' | 'soundcloud'
+  type: 'text' | 'image' | 'youtube' | 'vimeo' | 'soundcloud'
   content?: string
   src?: string
   alt?: string
   span?: boolean
   youtubeId?: string
+  vimeoId?: string
   soundcloudUrl?: string
   vertical?: boolean
 }

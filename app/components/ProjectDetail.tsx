@@ -6,6 +6,7 @@ import ReactMarkdown from 'react-markdown'
 import { getImagePath } from '../utils/imagePath'
 import { Project } from '../types'
 import YouTubeEmbed from './YouTubeEmbed'
+import VimeoEmbed from './VimeoEmbed'
 import SoundCloudEmbed from './SoundCloudEmbed'
 import ImageModal from './ImageModal'
 
@@ -43,6 +44,9 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
             )}
             {item.type === 'youtube' && item.youtubeId && (
               <YouTubeEmbed videoId={item.youtubeId} vertical={item.vertical} />
+            )}
+            {item.type === 'vimeo' && item.vimeoId && (
+              <VimeoEmbed videoId={item.vimeoId} vertical={item.vertical} />
             )}
             {item.type === 'soundcloud' && item.soundcloudUrl && (
               <SoundCloudEmbed url={item.soundcloudUrl} />

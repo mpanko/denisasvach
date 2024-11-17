@@ -57,6 +57,14 @@ collections:
               - {label: "YouTube ID", name: "youtubeId", widget: "string"}
               - {label: "Span Full Width", name: "span", widget: "boolean", default: false, required: false}
               - {label: "Vertical Video", name: "vertical", widget: "boolean", default: false, required: false}
+          - label: "Vimeo"
+            name: "vimeo"
+            widget: "object"
+            fields:
+              - {label: "Type", name: "type", widget: "hidden", default: "vimeo"}
+              - {label: "Vimeo ID", name: "vimeoId", widget: "string"}
+              - {label: "Span Full Width", name: "span", widget: "boolean", default: false, required: false}
+              - {label: "Vertical Video", name: "vertical", widget: "boolean", default: false, required: false}
           - label: "SoundCloud"
             name: "soundcloud"
             widget: "object"
