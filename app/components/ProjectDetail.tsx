@@ -1,16 +1,21 @@
-import React from 'react'
+'use client'
+
+import React, { useState } from 'react'
 import Image from 'next/image'
 import ReactMarkdown from 'react-markdown'
 import { getImagePath } from '../utils/imagePath'
 import { Project } from '../types'
 import YouTubeEmbed from './YouTubeEmbed'
 import SoundCloudEmbed from './SoundCloudEmbed'
+import ImageModal from './ImageModal'
 
 type ProjectDetailProps = {
   project: Project
 }
 
 export default function ProjectDetail({ project }: ProjectDetailProps) {
+  const [selectedImage, setSelectedImage] = useState<string | null>(null)
+
   return (
     <div className="container mx-auto px-4 py-12">
       <h1 className="text-5xl font-bold mb-12 uppercase text-center text-white">{project.title}</h1>
@@ -23,7 +28,10 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
               </div>
             )}
             {item.type === 'image' && item.src && (
-              <div className={`relative ${item.vertical ? 'aspect-[3/4]' : 'aspect-[4/3]'}`}>
+              <div 
+                className={`relative ${item.vertical ? 'aspect-[3/4]' : 'aspect-[4/3]'} cursor-pointer`}
+                onClick={() => setSelectedImage(getImagePath(item.src!))}
+              >
                 <Image
                   src={getImagePath(item.src)}
                   alt={item.alt || ''}
@@ -42,6 +50,13 @@ export default function ProjectDetail({ project }: ProjectDetailProps) {
           </div>
         ))}
       </div>
+      {selectedImage && (
+        <ImageModal
+          src={selectedImage}
+          alt="Full size image"
+          onClose={() => setSelectedImage(null)}
+        />
+      )}
     </div>
   )
 }
