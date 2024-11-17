@@ -27,13 +27,14 @@ content:
       scenography: Denisa Svachova
 
 
-
       Music: Julie Lupacova
-
 
 
       AI: Matus Zilinec
 
+
+
+      Photo: Cedric Mussano, Richard Blasko
 
 
 
