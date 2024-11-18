@@ -1,24 +1,65 @@
 ---
 id: white-tubes
 title: White Tubes
-image: /images/white-tubes-thumbnail.jpg
-description: An immersive installation exploring the interplay of light, space, and form.
+order: 4
+image: /images/white-tubes_thumbnail-image.jpg
+description: An interactive art installation that invites visitors to explore
+  new spatial experiences through minimalistic forms.
 content:
   - type: text
-    content: White Tubes is an immersive installation that investigates the relationship between light, space, and form. Through a series of interconnected cylindrical structures, this project creates a dynamic environment that challenges viewers' perceptions of space and movement.
+    content: >-
+      White Tubes encourages visitors to engage physically: sitting, climbing,
+      or lying down to experience the space from a different perspective. The
+      installation shifts the perception of space, stripping away unnecessary
+      elements to focus solely on the raw forms. This spatial arrangement
+      created an intimate yet public interaction, exploring minimalist ideas of
+      presence and direct engagement with the environment.
+
+
+      Presented at the MONUMENT I exhibition (NoD Gallery, Prague, Czech Repubic) in 2015.
   - type: text
-    content: As visitors navigate through the installation, they experience shifting perspectives and changing light conditions, encouraging a reevaluation of their spatial awareness and sensory perceptions.
+    content: |-
+      
+      Installation: Denisa Svachova
+
+      Photo: Filip Kartousek
+
+      Model: Denisa Svachova
   - type: image
-    src: /images/white-tubes-1.jpg
-    alt: White Tubes installation overview
+    src: /images/white-tubes_1.jpg
+    alt: "White Tubes installation "
+    span: true
+  - type: image
+    src: /images/white-tubes_3.jpg
+    alt: "White Tubes installation "
+    vertical: true
     span: false
   - type: image
-    src: /images/white-tubes-2.jpg
-    alt: Detail of tube structure
+    src: /images/white-tubes_2.jpg
+    alt: "White Tubes installation "
+    vertical: true
+  - type: text
+    content: >-
+      
+      Initially set beneath a metal staircase at the Academy of Fine Arts in Prague in 2014, allowing those lying inside to observe people above through the gaps.
+  - type: text
+    content: |-
+      
+      Photo below: Denisa Svachova
+      Models: Tereza Brussmanova, Lucie Dolezalova
   - type: image
-    src: /images/white-tubes-3.jpg
-    alt: Interaction of light and tubes
+    span: true
+    vertical: false
+    alt: "White Tubes installation "
+    src: /images/white-tubes_4.jpg
   - type: image
-    src: /images/white-tubes-4.jpg
-    alt: Visitor engaging with the installation
+    span: false
+    vertical: true
+    alt: "White Tubes installation "
+    src: /images/white-tubes_5.jpg
+  - type: image
+    span: false
+    vertical: true
+    alt: "White Tubes installation "
+    src: /images/white-tubes_6.jpg
 ---
