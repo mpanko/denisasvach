@@ -8,7 +8,7 @@ description: An interactive art installation that invites visitors to explore
 content:
   - type: text
     content: >-
-      White Tubes encourages visitors to engage physically: sitting, climbing,
+      *White Tubes* encourages visitors to engage physically: sitting, climbing,
       or lying down to experience the space from a different perspective. The
       installation shifts the perception of space, stripping away unnecessary
       elements to focus solely on the raw forms. This spatial arrangement
@@ -16,7 +16,7 @@ content:
       presence and direct engagement with the environment.
 
 
-      Presented at the MONUMENT I exhibition (NoD Gallery, Prague, Czech Repubic) in 2015.
+      Presented at the *MONUMENT I* exhibition (NoD Gallery, Prague, Czech Republic) in 2015.
   - type: text
     content: |-
       
@@ -39,9 +39,9 @@ content:
     alt: "White Tubes installation "
     vertical: true
   - type: text
-    content: >-
-      
-      Initially set beneath a metal staircase at the Academy of Fine Arts in Prague in 2014, allowing those lying inside to observe people above through the gaps.
+    content: Installation White Tubes was initially set beneath a metal staircase at
+      the Academy of Fine Arts in Prague in 2014, allowing those lying inside to
+      observe people above through the gaps.
   - type: text
     content: |-
       
