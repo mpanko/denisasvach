@@ -23,4 +23,14 @@ content:
 
 
       text for One day edition, Denisa Švachová, 2022
+  - type: image
+    span: false
+    vertical: false
+    src: /images/3.jpg
+    alt: "1"
+  - type: image
+    span: false
+    vertical: true
+    src: /images/5.jpg
+    alt: "2"
 ---
