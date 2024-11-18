@@ -26,7 +26,7 @@ content:
   - type: image
     span: false
     vertical: false
-    src: /images/collecting-addictions_2.jpg
+    src: /images/collecting-addictions_3.jpg
     alt: Collecting Addictions
   - type: image
     span: false
@@ -36,12 +36,12 @@ content:
   - type: image
     span: false
     vertical: false
-    src: /images/collecting-addictions_3.jpg
+    src: /images/collecting-addictions_4.jpg
     alt: Collecting Addictions
   - type: image
     span: false
     vertical: false
-    src: /images/collecting-addictions_4.jpg
+    src: /images/collecting-addictions_2.jpg
     alt: Collecting Addictions
   - type: image
     span: false
