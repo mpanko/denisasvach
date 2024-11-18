@@ -53,12 +53,12 @@ content:
     span: false
     vertical: true
     alt: "White Tubes installation "
-    src: /images/white-tubes_5.jpg
+    src: /images/white-tubes_6.jpg
   - type: image
     span: false
     vertical: true
     alt: "White Tubes installation "
-    src: /images/white-tubes_6.jpg
+    src: /images/white-tubes_5.jpg
   - type: image
     span: true
     vertical: false
