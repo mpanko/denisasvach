@@ -35,8 +35,8 @@ content:
 
       text for One day edition, Denisa Švachová, 2022
   - type: image
-    span: false
-    vertical: true
+    span: true
+    vertical: false
     src: /images/pack-a-day_1.jpg
     alt: pack a day
   - type: image
