@@ -23,4 +23,48 @@ content:
       Artists: Denisa Svachova, Peter Valiska-Timecko
 
       Curator: Katerina Vincourova
+  - type: image
+    span: false
+    vertical: false
+    src: /images/collecting-addictions_1.jpg
+    alt: Collecting Addictions
+  - type: image
+    span: false
+    vertical: false
+    src: /images/collecting-addictions_2.jpg
+    alt: Collecting Addictions
+  - type: image
+    span: false
+    vertical: false
+    src: /images/collecting-addictions_3.jpg
+    alt: Collecting Addictions
+  - type: image
+    span: false
+    vertical: false
+    src: /images/collecting-addictions_4.jpg
+    alt: Collecting Addictions
+  - type: image
+    span: false
+    vertical: false
+    src: /images/collecting-addictions_5.jpg
+    alt: Collecting Addictions
+  - type: youtube
+    span: false
+    vertical: false
+    youtubeId: T7hkaKJz2Qs
+  - type: image
+    span: false
+    vertical: false
+    src: /images/collecting-addictions_6.jpg
+    alt: Collecting Addictions
+  - type: image
+    span: false
+    vertical: false
+    src: /images/collecting-addictions_7.jpg
+    alt: Collecting Addictions
+  - type: image
+    span: false
+    vertical: true
+    src: /images/collecting-addictions_8.jpg
+    alt: Collecting Addictions
 ---
