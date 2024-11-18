@@ -17,12 +17,11 @@ content:
       The exhibition was presented at GAVU gallery in Prague, Czech Republic in 2013.
   - type: text
     content: |-
-      
-
-
       Artists: Denisa Svachova, Peter Valiska-Timecko
 
       Curator: Katerina Vincourova
+
+      Photo: Filip Slivka
   - type: image
     span: false
     vertical: false
