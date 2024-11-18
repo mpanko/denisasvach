@@ -50,11 +50,6 @@ content:
 
       Models: Tereza Brussmanova, Lucie Dolezalova
   - type: image
-    span: true
-    vertical: false
-    alt: "White Tubes installation "
-    src: /images/white-tubes_4.jpg
-  - type: image
     span: false
     vertical: true
     alt: "White Tubes installation "
@@ -64,4 +59,9 @@ content:
     vertical: true
     alt: "White Tubes installation "
     src: /images/white-tubes_6.jpg
+  - type: image
+    span: true
+    vertical: false
+    alt: "White Tubes installation "
+    src: /images/white-tubes_4.jpg
 ---
