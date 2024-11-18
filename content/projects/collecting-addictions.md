@@ -1,7 +1,7 @@
 ---
 id: collecting-addictions
 title: Collecting Addictions
-order: 1
+order: 0
 image: /images/collecting-addictions_thumbnail-image.jpg
 description: An exhibition exploring the compulsive drive to collect everyday
   objects, transforming them into new aesthetic and conceptual realms.
