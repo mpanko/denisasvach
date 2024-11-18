@@ -39,9 +39,9 @@ content:
     alt: "White Tubes installation "
     vertical: true
   - type: text
-    content: Installation White Tubes was initially set beneath a metal staircase at
-      the Academy of Fine Arts in Prague in 2014, allowing those lying inside to
-      observe people above through the gaps.
+    content: Installation *White Tubes* was initially set beneath a metal staircase
+      at the Academy of Fine Arts in Prague in 2014, allowing those lying inside
+      to observe people above through the gaps.
   - type: text
     content: |-
       
