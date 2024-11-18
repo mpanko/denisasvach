@@ -24,7 +24,7 @@ export default async function Home() {
         order: data.order || 0
       }
     })
-    .sort((a, b) => a.order - b.order)
+    .sort((a, b) => b.order - a.order)
 
   return (
     <div className="container mx-auto px-4 pt-8 pb-16">
