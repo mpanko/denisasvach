@@ -19,12 +19,11 @@ content:
       Presented at the *MONUMENT I* exhibition (NoD Gallery, Prague, Czech Republic) in 2015.
   - type: text
     content: |-
-      
-      Installation: Denisa Svachova
+      created by Denisa Svachova
 
-      Photo: Filip Kartousek
+      photo: Filip Kartousek
 
-      Model: Denisa Svachova
+      model: Denisa Svachova
   - type: image
     src: /images/white-tubes_1.jpg
     alt: "White Tubes installation "
@@ -44,11 +43,9 @@ content:
       to observe people above through the gaps.
   - type: text
     content: |-
-      
-      Photo below: Denisa Svachova
+      photo below: Denisa Svachova
 
-
-      Models: Tereza Brussmanova, Lucie Dolezalova
+      model: Tereza Brussmanova, Lucie Dolezalova
   - type: image
     span: false
     vertical: true
