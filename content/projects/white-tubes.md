@@ -45,7 +45,7 @@ content:
     content: |-
       photo below: Denisa Svachova
 
-      model: Tereza Brussmanova, Lucie Dolezalova
+      models: Tereza Brussmanova, Lucie Dolezalova
   - type: image
     span: false
     vertical: true
