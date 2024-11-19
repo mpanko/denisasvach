@@ -8,23 +8,21 @@ description: Thirteen happenings dealing with environmental pollution and the
 content:
   - type: text
     content: >-
-      
-
-
-      *Flip-flop in the Road* was created in response to the pollution and disorder I encountered in Yogyakarta. When I first arrived in Indonesia, I was shocked by the environment people lived in. Trash was thrown carelessly on the ground, waste bins were a rare sight, and littering was common, even from moving vehicles. Among the debris lying in the middle of roads were abandoned flip-flops, lost by motorcyclists, often left untouched for weeks. These forgotten sandals reminded me of lifeless bodies, discarded alongside heaps of waste.
+      *Flip-flop in the Road* was created in response to the pollution and
+      disorder I encountered in Yogyakarta. When I first arrived in Indonesia, I
+      was shocked by the environment people lived in. Trash was thrown
+      carelessly on the ground, waste bins were a rare sight, and littering was
+      common, even from moving vehicles. Among the debris lying in the middle of
+      roads were abandoned flip-flops, lost by motorcyclists, often left
+      untouched for weeks. These forgotten sandals reminded me of lifeless
+      bodies, discarded alongside heaps of waste.
 
 
       As a statement that even discarded items deserve a more honorable end than simply rotting away, I performed thirteen happenings. At each site where a flip-flop lay, I buried it and placed a cross with a photo, marking its final resting place. I chose to focus on flip-flops because each has a unique character, evoking a sense of empathy and the story of its loss. The reasons for abandonment could be as simple as a mishap or the result of a tragic accident. For residents, these flip-flops are also a somber reminder of the devastating earthquake in 2006, when the streets were littered with them in overwhelming numbers.
-
-
-      Flip-flops are more than just practical footwear suited to the local climate; they have become a small cultural icon, deeply embedded in the daily life and stories of the people of Yogyakarta.
   - type: text
-    content: >-
-      
-      Flip-flops are more than just practical footwear suited to the local climate; they have become a small cultural icon, deeply embedded in the daily life and stories of the people of Yogyakarta.
-
-
-      *Flip-flop in the Road* was exhibited as an installation and photo catalog in the gallery of Institut Seni Indonesia Yogyakarta, Indonesia in 2015
+    content: "*Flip-flop in the Road* was exhibited as an installation and photo
+      catalog in the gallery of Institut Seni Indonesia Yogyakarta, Indonesia in
+      2015"
   - type: image
     span: false
     vertical: false
