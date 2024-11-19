@@ -3,10 +3,9 @@ id: pack-a-day
 title: Pack a Day
 order: 2
 image: /images/pack-a-day_thumbnail-image.jpg
-description: An installation that transforms used cigarette packs into
-  individual sheets of paper, each representing one day of my father's smoking
-  habit, exploring repetition, memory, and personal ritual through everyday
-  objects.
+description: Installation that transforms used cigarette packs into individual
+  sheets of paper, each representing one day of my father's smoking habit,
+  exploring repetition, memory, and personal ritual through everyday objects.
 content:
   - type: text
     content: >-
