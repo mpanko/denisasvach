@@ -75,13 +75,13 @@ content:
     vertical: false
     src: /images/treatment-of-remembering_7.jpg
     alt: treatment of remembering
+  - type: vimeo
+    span: true
+    vertical: false
+    vimeoId: "679050785"
   - type: image
     span: true
     vertical: false
     src: /images/treatment-of-remembering_2.webp
     alt: treatment of remembering
-  - type: vimeo
-    span: true
-    vertical: false
-    vimeoId: "679050785"
 ---
