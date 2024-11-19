@@ -50,4 +50,18 @@ content:
     vertical: false
     alt: Blueprint
     src: /images/blueprint_4.webp
+  - type: image
+    span: false
+    vertical: false
+    alt: Blueprint
+    src: /images/blueprint_5.webp
+  - type: image
+    span: false
+    vertical: false
+    alt: Blueprint
+    src: /images/blueprint_6.webp
+  - type: vimeo
+    span: false
+    vertical: false
+    vimeoId: "241899768"
 ---
