@@ -17,10 +17,7 @@ content:
       *Silent Stage* was part of the Mismas music festival in Bojkovice, Czech Republic in 2017
   - type: text
     content: |-
-      
-
-
-      Created by Denisa Svachova, Michal Mitro and Julie Lupacova
+      created by Denisa Svachova, Michal Mitro and Julie Lupacova
 
       [Listen on Soundcloud](https://on.soundcloud.com/dMEz6JzcGzRGRWJn7)
   - type: image
