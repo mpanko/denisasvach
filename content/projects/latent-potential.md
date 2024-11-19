@@ -3,7 +3,8 @@ id: latent-potential
 title: Latent Potential
 order: 10
 image: /images/latent-potential-thumbnail.jpg
-description: An exploration of hidden possibilities within everyday objects and spaces.
+description: Sound installation revealing hidden stories through the interplay
+  of auditory cues and visual elements.
 content:
   - type: text
     content: Latent Potential is a mixed-media project that uncovers and activates
