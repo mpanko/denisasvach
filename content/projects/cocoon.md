@@ -44,12 +44,12 @@ content:
   - type: image
     span: false
     vertical: false
-    src: /images/cocoon_5.jpg
+    src: /images/cocoon_6.jpg
     alt: Cocoon
   - type: image
     span: false
     vertical: false
-    src: /images/cocoon_6.jpg
+    src: /images/cocoon_5.jpg
     alt: Cocoon
   - type: youtube
     span: false
