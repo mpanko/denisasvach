@@ -39,4 +39,23 @@ content:
     vertical: true
     alt: spirit level
     src: /images/spirit-level_2.jpg
+  - type: image
+    span: false
+    vertical: false
+    src: /images/spirit-level_3.webp
+    alt: spirit level
+  - type: image
+    span: false
+    vertical: false
+    alt: spirit level
+    src: /images/spirit-level_6.webp
+  - type: vimeo
+    span: false
+    vertical: false
+    vimeoId: "337624781"
+  - type: image
+    span: false
+    vertical: false
+    alt: spirit level
+    src: /images/spirit-level_4.jpg
 ---
