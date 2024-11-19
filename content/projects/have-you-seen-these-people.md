@@ -1,24 +1,36 @@
 ---
 id: have-you-seen-these-people
 title: Have You Seen These People
+order: 12
 image: /images/have-you-seen-these-people-thumbnail.jpg
-description: A thought-provoking exploration of identity and recognition in the digital age.
+description: >
+  An exploration of chance encounters and hidden stories captured through found
+  film negatives.
 content:
   - type: text
-    content: Have You Seen These People is a multimedia project that investigates the concept of identity and recognition in our increasingly digital world. Through a series of portraits and interactive installations, this work challenges viewers to consider how we perceive and remember faces in an era of constant visual stimulation.
+    content: >-
+      
+      The title refers to the phrase commonly used in an unfortunate case of someone close gone missing. Nothing but a little bit of hope or despair, rather, remains. Our approach is the exact opposite: we do not look for anyone who disappeared, we are curious about the people we discovered. We know each other from the found film negatives. A series of questions arise immediately: Who are these people? What do they do? What are their destinies? Are they still alive? Can we meet? Do you know them? Have you seen these people?
+
+
+      *Have You Seen These People?* is a photography exhibition featuring found film negatives, presenting the work of four artists who reflect on the serendipity of discovering these images. The project questions whether it was mere chance that led us to these specific negatives or if something deeper connects us to them. Alongside the exhibition, we created a catalog with photographs and the stories of how each negative was found.
   - type: text
-    content: The project incorporates elements of artificial intelligence and facial recognition technology, juxtaposing these with traditional portraiture techniques to create a dialogue about the nature of identity in both physical and digital realms.
+    content: |-
+      
+      artists: Denisa Svachova, Michal Mitro, Michael Goldbach, Giullio Zannol
+
+      graphic design: Amanda-Li Kollberg
   - type: image
-    src: /images/have-you-seen-these-people-1.jpg
-    alt: Overview of Have You Seen These People installation
-    span: true
+    src: /images/hystp_1.jpg
+    alt: Have You Seen These People
+    span: false
   - type: image
-    src: /images/have-you-seen-these-people-2.jpg
-    alt: Detail of digital portrait
+    src: /images/hystp_2.jpg
+    alt: Have You Seen These People
   - type: image
-    src: /images/have-you-seen-these-people-3.jpg
-    alt: Visitor interacting with facial recognition display
+    src: /images/hystp_3.jpg
+    alt: Have You Seen These People
   - type: image
-    src: /images/have-you-seen-these-people-4.jpg
-    alt: Collage of various portraits from the project
+    src: /images/hystp_4.jpg
+    alt: Have You Seen These People
 ---
