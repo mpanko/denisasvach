@@ -36,10 +36,10 @@ content:
     span: false
     vertical: true
     alt: silent stage
-    src: /images/silent-stage_2.jpg
+    src: /images/silent-stage_3.jpg
   - type: image
     span: false
     vertical: true
     alt: silent stage
-    src: /images/silent-stage_3.jpg
+    src: /images/silent-stage_2.jpg
 ---
