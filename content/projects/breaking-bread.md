@@ -1,31 +1,30 @@
 ---
 id: breaking-bread
 title: Breaking Bread
-order: 10
-image: /images/breaking-bread-thumbnail.jpg
-description: A performance-based project exploring communal dining and social connections.
+order: 14
+image: /images/breaking-bread_thumbnail-image.jpg
+description: A video performance examining how individuals interpret and react
+  differently to the same commands, exploring themes of manipulation and
+  isolation.
 content:
   - type: text
-    content: Breaking Bread is a performance-based project that investigates the
-      social and cultural significance of shared meals. Through a series of
-      curated dining experiences, this work explores how food and the act of
-      eating together can create and strengthen community bonds.
+    content: >-
+      Breaking Bread is a video performance exploring the theme of manipulation
+      and the diverse ways individuals interpret and react to the same commands.
+
+
+      The performance involves two participants seated on opposite sides of a round table, separated by a wall. Although physically and mentally isolated, they remain aware of each other's presence. Both participants receive identical instructions through headphones, beginning with an awareness of their own bodies. As the performance progresses, the commands escalate from simple motivational cues to increasingly absurd directives, highlighting the variations in human response.
   - type: text
-    content: Participants are invited to engage in carefully choreographed dining
-      rituals, encouraging conversations and connections that transcend cultural
-      and social boundaries. The project documents these interactions, creating
-      a visual narrative of shared human experiences.
-  - type: image
-    src: /images/breaking-bread-1.jpg
-    alt: Overview of Breaking Bread performance
-    span: true
-  - type: image
-    src: /images/breaking-bread-2.jpg
-    alt: Detail of table setting
-  - type: image
-    src: /images/breaking-bread-3.jpg
-    alt: Participants sharing a meal
-  - type: image
-    src: /images/breaking-bread-4.jpg
-    alt: Close-up of hands breaking bread
+    content: |-
+      concept: Tvary
+
+      direction: Denisa Svachova
+
+      performers: Nela Britaňáková, Jan Pancocha
+
+      voice: Denisa Svachova
+
+      camera: Giullio Zannol, David Prilucik
+
+      light design: Isrohan Alvarez
 ---
