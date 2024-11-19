@@ -1,7 +1,7 @@
 ---
 id: flip-flop-in-the-road
 title: Flip-flop in the Road
-order: 7
+order: 8
 image: /images/flipflop-in-the-road_thumbnail-image3.jpg
 description: Thirteen happenings dealing with environmental pollution and the
   symbolism of forgotten flip-flops scattered on the streets of Yogyakarta.
