@@ -29,21 +29,15 @@ content:
 
 
       [Listen on Soundcloud](https://soundcloud.com/tvaryshapes/spirit-level?si=3153bf04d67b4755b8b68827d0cf4f6b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+  - type: vimeo
+    span: true
+    vertical: false
+    vimeoId: "337624781"
   - type: image
     span: true
     vertical: false
     alt: spirit level
     src: /images/spirit-level_0.webp
-  - type: image
-    span: false
-    vertical: true
-    alt: spirit level
-    src: /images/spirit-level_2.jpg
-  - type: image
-    span: false
-    vertical: true
-    alt: spirit level
-    src: /images/spirit-level_1.jpg
   - type: image
     span: false
     vertical: false
@@ -54,12 +48,18 @@ content:
     vertical: false
     alt: spirit level
     src: /images/spirit-level_4.jpg
-  - type: vimeo
-    span: false
-    vertical: false
-    vimeoId: "337624781"
   - type: image
     span: false
+    vertical: true
+    alt: spirit level
+    src: /images/spirit-level_1.jpg
+  - type: image
+    span: false
+    vertical: true
+    alt: spirit level
+    src: /images/spirit-level_2.jpg
+  - type: image
+    span: true
     vertical: false
     src: /images/spirit-level_3.webp
     alt: spirit level
