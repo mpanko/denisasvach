@@ -24,4 +24,19 @@ content:
       created by Denisa Svachova
 
       voice: Jess Semler
+  - type: image
+    span: true
+    vertical: false
+    alt: spirit level
+    src: /images/spirit-level_0.webp
+  - type: image
+    span: false
+    vertical: true
+    alt: spirit level
+    src: /images/spirit-level_1.jpg
+  - type: image
+    span: false
+    vertical: true
+    alt: spirit level
+    src: /images/spirit-level_2.jpg
 ---
