@@ -2,7 +2,7 @@
 id: latent-potential
 title: Latent Potential
 order: 15
-image: /images/latent-potential_thunbnail-image.jpg
+image: /images/thumbnail-latent.jpg
 description: Sound installation revealing hidden stories through the interplay
   of auditory cues and visual elements.
 content:
