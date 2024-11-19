@@ -21,12 +21,11 @@ content:
       The Double-Sided Structure project was created during my student exchange at the Academy of Arts, Architecture and Design in Prague, Czech Republic, in 2015.
   - type: text
     content: |-
-      
       object, dress: Denisa Svachova
 
-      Photo: Filip Kartousek
+      photo: Filip Kartousek
 
-      Model: Denisa Svachova, Katerina Urbanova
+      model: Denisa Svachova, Katerina Urbanova
   - type: image
     span: false
     vertical: false
