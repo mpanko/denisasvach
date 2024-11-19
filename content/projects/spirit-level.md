@@ -20,10 +20,15 @@ content:
 
       I created the project *Spirit Level* as my final work at the Academy of Fine Arts in Prague, Czech Republic as part of the exhibition Another Place in 2018.
   - type: text
-    content: |-
+    content: >-
       created by Denisa Svachova
 
+
       voice: Jess Semler
+
+
+
+      [Listen on Soundcloud](https://soundcloud.com/tvaryshapes/spirit-level?si=3153bf04d67b4755b8b68827d0cf4f6b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - type: image
     span: true
     vertical: false
