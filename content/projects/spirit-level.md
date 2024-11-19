@@ -58,11 +58,6 @@ content:
     span: true
     vertical: false
     vimeoId: "337624781"
-  - type: image
-    span: true
-    vertical: false
-    alt: spirit level
-    src: /images/spirit-level_0.webp
   - type: text
     content: >-
       
