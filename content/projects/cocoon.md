@@ -1,7 +1,7 @@
 ---
 id: cocoon
 title: Cocoon
-order: 8
+order: 7
 image: /images/cocoon_thambnail-image.jpg
 description: A site-specific textile installation created for a traditional
   Indonesian gazebo, brought to life through the coordinated movements of two
