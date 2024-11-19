@@ -1,7 +1,7 @@
 ---
 id: blueprint
 title: Blueprint
-order: 5
+order: 11
 image: /images/blueprint_thumbnail-image.jpg
 description: "Video installation combining dance film and a geometric metal
   sculpture, inspired by the old blueprint technology used for architectural
