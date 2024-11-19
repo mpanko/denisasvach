@@ -4,7 +4,7 @@ title: Have You Seen These People
 order: 12
 image: /images/have-you-seen-these-people-thumbnail.jpg
 description: >
-  An exploration of chance encounters and hidden stories captured through found
+  Exploration of chance encounters and hidden stories captured through found
   film negatives.
 content:
   - type: text
