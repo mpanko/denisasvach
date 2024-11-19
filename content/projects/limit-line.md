@@ -15,4 +15,9 @@ content:
     content: |-
       
       Created and performed by Denisa Svachova
+  - type: image
+    span: false
+    vertical: false
+    src: /images/limit-line_1.jpg
+    alt: limit line
 ---
