@@ -16,12 +16,12 @@ content:
   - type: image
     span: false
     vertical: false
-    src: /images/limit-line_1.jpg
+    src: /images/limit-line_2.jpg
     alt: limit line
   - type: image
     span: false
     vertical: false
-    src: /images/limit-line_2.jpg
+    src: /images/limit-line_1.jpg
     alt: limit line
   - type: youtube
     span: false
