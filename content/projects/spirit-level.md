@@ -1,37 +1,27 @@
 ---
 id: spirit-level
 title: Spirit Level
-description: An exploration of balance and equilibrium in both physical and
-  metaphysical realms.
-image: /images/spirit-level-thumbnail.jpg
+order: 13
+image: /images/spirit-level_thumbnail-image.jpg
+description: An interactive performance inviting visitors to explore balance and
+  movement through guided exercises and object interactions.
 content:
   - type: text
-    content: Spirit Level is a series that delves into the concept of balance, both
-      in the physical world and in our inner lives. Through a variety of media,
-      this project examines how we strive for and maintain equilibrium in an
-      ever-changing environment.
+    content: >-
+      *Spirit Level* is a self-service performance inviting visitors to
+      experience it as participants or observers. Active participants follow
+      audio instructions via headphones, guiding them through simple balance
+      exercises with interactive objects. Observers, in contrast, engage with a
+      different sensory experience, witnessing the unfolding actions.
+
+
+      I explore the relationship between natural movement and choreography, and the specific spatial installations determine the scope of this research. Within their limits, I create different situations through the techniques of contemporary dance, theater, and performance and actively involve the viewer. I map the boundaries of how far the viewer is willing to be drawn into the manipulative play of normative instructions conflicting with meditative moments and how his or her tolerance is bent with the knowledge of the other participants' compliance.
+
+
+      I created the project *Spirit Level* as my final work at the Academy of Fine Arts in Prague, Czech Republic as part of the exhibition Another Place in 2018.
   - type: text
-    content: The installation incorporates suspended elements that respond to air
-      currents, creating a dynamic interplay between stability and motion.
-      Visitors are invited to reflect on their own sense of balance as they
-      navigate the space.
-  - type: image
-    src: /images/spirit-level-1.jpg
-    alt: Spirit Level installation view
-    span: false
-  - type: youtube
-    youtubeId: dQw4w9WgXcQ
-    span: false
-  - type: soundcloud
-    soundcloudUrl: https://soundcloud.com/octobersveryown/drake-search-rescue
-    span: false
-  - type: image
-    src: /images/spirit-level-2.jpg
-    alt: Spirit Level artwork detail
-  - type: image
-    src: /images/spirit-level-3.jpg
-    alt: Spirit Level conceptual piece
-  - type: image
-    src: /images/spirit-level-4.jpg
-    alt: Spirit Level exhibition overview
+    content: |-
+      created by Denisa Svachova
+
+      voice: Jess Semler
 ---
