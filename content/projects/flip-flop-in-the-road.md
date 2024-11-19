@@ -53,14 +53,4 @@ content:
     vertical: false
     src: /images/flipflop-in-the-road_6.webp
     alt: "Flip-flop in the Road "
-  - type: image
-    span: false
-    vertical: false
-    src: /images/flipflop-in-the-road_7.webp
-    alt: "Flip-flop in the Road "
-  - type: image
-    span: false
-    vertical: false
-    src: /images/flipflop-in-the-road_8.jpg
-    alt: "Flip-flop in the Road "
 ---
