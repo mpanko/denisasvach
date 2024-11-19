@@ -46,11 +46,11 @@ content:
   - type: image
     span: false
     vertical: false
-    src: /images/flipflop-in-the-road_5.webp
+    src: /images/flipflop-in-the-road_6.webp
     alt: "Flip-flop in the Road "
   - type: image
     span: false
     vertical: false
-    src: /images/flipflop-in-the-road_6.webp
+    src: /images/flipflop-in-the-road_5.webp
     alt: "Flip-flop in the Road "
 ---
