@@ -3,7 +3,7 @@ id: breaking-bread
 title: Breaking Bread
 order: 14
 image: /images/breaking-bread_thumbnail-image.jpg
-description: A video performance examining how individuals interpret and react
+description: Video performance examining how individuals interpret and react
   differently to the same commands, exploring themes of manipulation and
   isolation.
 content:
