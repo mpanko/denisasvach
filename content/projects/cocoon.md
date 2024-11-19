@@ -43,13 +43,13 @@ content:
     vertical: false
     src: /images/cocoon_6.jpg
     alt: Cocoon
+  - type: image
+    span: false
+    vertical: false
+    src: /images/cocoon_5.jpg
+    alt: Cocoon
   - type: youtube
     span: false
     vertical: false
     youtubeId: x3NjuL1fEUo
-  - type: image
-    span: true
-    vertical: false
-    src: /images/cocoon_5.jpg
-    alt: Cocoon
 ---
