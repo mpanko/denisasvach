@@ -3,7 +3,7 @@ id: limit-line
 title: Limit Line
 order: 10
 image: /images/limit-line_thumbnail-image.jpg
-description: A performance exploring physical and mental limits through body
+description: Performance exploring physical and mental limits through body
   movements synchronized with a metronome, reflecting the overwhelming
   experience of trying to manage too many tasks at once.
 content:
