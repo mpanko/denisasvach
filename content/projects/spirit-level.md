@@ -58,4 +58,12 @@ content:
     vertical: false
     alt: spirit level
     src: /images/spirit-level_4.jpg
+  - type: text
+    content: >-
+      
+      For the NoD Gallery, I created Spirit Level in four languages—English, German, Italian, and French—each quietly over-translated into Czech. This work was part of the Prag_Kassel: Hybrid Inconvenience exhibition in NoD, Prague, Czech Republic, in 2018, which examined the symbolic potential of the Munich Agreement (1938) through contemporary visual art.
+  - type: text
+    content: >-
+      
+      voice: Jess Semler, Giulio Zannol. Petra Sivcakova, Maud Courtheoux, Rebecca Bernice Humphries, Denisa Svachova
 ---
