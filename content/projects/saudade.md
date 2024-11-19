@@ -1,13 +1,31 @@
 ---
 id: saudade
 title: Saudade
-image: /images/saudade-thumbnail.jpg
-description: A poetic exploration of longing and nostalgia through multimedia installations.
+order: 16
+image: /images/saudade_thunbnail-image.jpg
+description: Saudade is a solo contemporary dance performance, a game of strict
+  boundaries where imagery and longing intertwine, leaving an echo that
+  resonates in the chest.
 content:
   - type: text
-    content: Saudade is a multimedia project that delves into the complex emotions of longing, nostalgia, and the bittersweet nature of memory. Inspired by the Portuguese concept of "saudade," this work creates immersive environments that evoke a sense of yearning for something indefinable or unattainable.
+    content: Saudade is a game with strict boundaries in which imagery and longing
+      go hand in hand. It’s a puffed-out void that bursts and hits you right
+      into your chest. It’s whispering at the edge of actuality. Saudade – the
+      sensation of lacking, grief for something beloved that disappeared or has
+      never been here. Solo by a dancer and choreographer, Alica Minárová, who
+      through the character of a stripper searches for natural sensuality that
+      doesn’t deprive the female body of dignity by showing it.
   - type: text
-    content: The installation combines visual art, sound, and interactive elements to create a multisensory experience that transports visitors to a space between memory and imagination. Through this work, viewers are invited to reflect on their own experiences of longing and the role of memory in shaping our emotional landscapes.
+    content: |-
+      choreography, performing: Alica Minar
+
+      dramaturgy: Šimon Peták
+
+      visual concept and solution: Denisa Svachova
+
+      music: Lukáš Palán
+
+      light design: Eliška Kocianová, Michal Horacek
   - type: image
     src: /images/saudade-1.jpg
     alt: Overview of Saudade installation
