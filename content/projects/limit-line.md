@@ -27,4 +27,9 @@ content:
     span: false
     vertical: false
     youtubeId: TRR106uPODo
+  - type: image
+    span: false
+    vertical: false
+    src: /images/limit-line_34.jpg
+    alt: limit line
 ---
