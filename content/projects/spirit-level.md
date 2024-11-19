@@ -72,6 +72,11 @@ content:
       
       voice: Jess Semler, Giulio Zannol. Petra Sivcakova, Maud Courtheoux, Rebecca Bernice Humphries, Denisa Svachova
   - type: image
+    span: true
+    vertical: false
+    alt: spirit level
+    src: /images/spirit-level_7.jpg
+  - type: image
     span: false
     vertical: false
     alt: spirit level
@@ -81,9 +86,4 @@ content:
     vertical: false
     src: /images/spirit-level_9.jpg
     alt: spirit level
-  - type: image
-    span: true
-    vertical: false
-    alt: spirit level
-    src: /images/spirit-level_7.jpg
 ---
