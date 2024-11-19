@@ -3,9 +3,8 @@ id: saudade
 title: Saudade
 order: 16
 image: /images/saudade_thunbnail-image.jpg
-description: Saudade is a solo contemporary dance performance, a game of strict
-  boundaries where imagery and longing intertwine, leaving an echo that
-  resonates in the chest.
+description: Solo performance in the game of strict boundaries where imagery and
+  longing intertwine, leaving an echo that resonates in the chest.
 content:
   - type: text
     content: Saudade is a game with strict boundaries in which imagery and longing
