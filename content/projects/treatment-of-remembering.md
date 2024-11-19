@@ -60,30 +60,30 @@ content:
     span: false
     vertical: false
     src: /images/treatment-of-remembering_1.jpg
-    alt: treatment of remembering_
+    alt: treatment of remembering
   - type: image
     span: false
     vertical: false
     src: /images/treatment-of-remembering_3.jpg
-    alt: treatment of remembering_
+    alt: treatment of remembering
   - type: image
     span: false
     vertical: false
     src: /images/treatment-of-remembering_5.jpg
-    alt: treatment of remembering_
+    alt: treatment of remembering
   - type: image
     span: false
     vertical: false
     src: /images/treatment-of-remembering_6.jpg
-    alt: treatment of remembering_
+    alt: treatment of remembering
   - type: image
     span: false
     vertical: false
     src: /images/treatment-of-remembering_7.jpg
-    alt: treatment of remembering_
+    alt: treatment of remembering
   - type: image
     span: false
     vertical: false
     src: /images/treatment-of-remembering_8.jpg
-    alt: treatment of remembering_
+    alt: treatment of remembering
 ---
