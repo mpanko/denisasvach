@@ -2,31 +2,12 @@
 id: latent-potential
 title: Latent Potential
 order: 10
-image: /images/latent-potential-thumbnail.jpg
+image: /images/latent-potential_thunbnail-image.jpg
 description: Sound installation revealing hidden stories through the interplay
   of auditory cues and visual elements.
 content:
   - type: text
-    content: Latent Potential is a mixed-media project that uncovers and activates
-      the hidden possibilities within everyday objects and spaces. Through a
-      series of interventions and transformations, this work challenges viewers
-      to reconsider their perceptions of the familiar and the overlooked.
-  - type: text
-    content: The installation features common items that have been reimagined and
-      repurposed, revealing unexpected forms and functions. Visitors are
-      encouraged to interact with these transformed objects, discovering new
-      potentials in the seemingly mundane.
-  - type: image
-    src: /images/latent-potential-1.jpg
-    alt: Overview of Latent Potential installation
-    span: true
-  - type: image
-    src: /images/latent-potential-2.jpg
-    alt: Detail of transformed object
-  - type: image
-    src: /images/latent-potential-3.jpg
-    alt: Visitor interacting with installation
-  - type: image
-    src: /images/latent-potential-4.jpg
-    alt: Close-up of intricate object transformation
+    content: >-
+      
+      Latent Potential is a sound installation created with Julie Lupačová, where repetitive background sounds serve as a template for visual elements in the space. Initially appearing random, the objects around visitors gradually reveal their deliberate placement, each tied to the sound composition and its hidden stories. This project explores the interplay between sound and visuals, using auditory cues to shape a narrative within the installation. Presented at the Future Ready exhibition, Campus Hybernská, in 2018.
 ---
