@@ -27,16 +27,16 @@ content:
 
       light design: Eliška Kocianová, Michal Horacek
   - type: image
-    src: /images/saudade-1.jpg
+    src: /images/saudade_1.jpg
     alt: Overview of Saudade installation
     span: false
   - type: image
-    src: /images/saudade-2.jpg
+    src: /images/saudade_2.jpg
     alt: Detail of nostalgic object display
   - type: image
-    src: /images/saudade-3.jpg
+    src: /images/saudade_3.jpg
     alt: Visitor interacting with sound installation
   - type: image
-    src: /images/saudade-4.jpg
+    src: /images/saudade_4.jpg
     alt: Visual representation of memory and longing
 ---
