@@ -3,7 +3,7 @@ id: back-into-the-desert
 title: Back into the Desert
 order: 3
 image: /images/back-into-the-desert_thumbnail-image.webp
-description: An immersive experience set in an endless desert, inviting the
+description: Immersive experience set in an endless desert, inviting the
   audience to choose whom to follow in a narrative shaped by commands.
 content:
   - type: text
