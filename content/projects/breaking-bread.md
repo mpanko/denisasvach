@@ -28,7 +28,7 @@ content:
 
       light design: Isrohan Alvarez
   - type: vimeo
-    span: false
+    span: true
     vertical: false
     vimeoId: "310400423"
   - type: image
