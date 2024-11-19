@@ -27,4 +27,8 @@ content:
       camera: Giullio Zannol, David Prilucik
 
       light design: Isrohan Alvarez
+  - type: vimeo
+    span: false
+    vertical: false
+    vimeoId: "310400423"
 ---
