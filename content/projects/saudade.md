@@ -29,7 +29,7 @@ content:
   - type: image
     src: /images/saudade-1.jpg
     alt: Overview of Saudade installation
-    span: true
+    span: false
   - type: image
     src: /images/saudade-2.jpg
     alt: Detail of nostalgic object display
