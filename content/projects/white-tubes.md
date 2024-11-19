@@ -3,8 +3,8 @@ id: white-tubes
 title: White Tubes
 order: 4
 image: /images/white-tubes_thumbnail-image.jpg
-description: An interactive art installation that invites visitors to explore
-  new spatial experiences through minimalistic forms.
+description: Interactive art installation that invites visitors to explore new
+  spatial experiences through minimalistic forms.
 content:
   - type: text
     content: >-
