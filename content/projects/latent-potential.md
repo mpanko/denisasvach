@@ -15,4 +15,14 @@ content:
       scenography: Denisa Svachova
 
       sound: Julie Lupacova
+  - type: image
+    span: false
+    vertical: false
+    src: /images/latent-potential_1.webp
+    alt: latent potential
+  - type: image
+    span: false
+    vertical: false
+    alt: latent potential
+    src: /images/latent-potential_2.webp
 ---
