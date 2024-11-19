@@ -38,12 +38,12 @@ content:
     span: false
     vertical: true
     alt: spirit level
-    src: /images/spirit-level_1.jpg
+    src: /images/spirit-level_2.jpg
   - type: image
     span: false
     vertical: true
     alt: spirit level
-    src: /images/spirit-level_2.jpg
+    src: /images/spirit-level_1.jpg
   - type: image
     span: false
     vertical: false
