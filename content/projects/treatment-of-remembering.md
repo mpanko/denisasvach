@@ -2,21 +2,27 @@
 id: treatment-of-remembering
 title: Treatment of Remembering
 order: 17
-image: /images/treatment-of-remembering_thumbnail-image.jpg
+image: /images/treatment-of-remembering_thumbnail-image2.jpg
 description: Three dancers with the audience undergo the Treatment of
   Remembering, exploring connection to nature in a space marked by its absence.
 content:
   - type: text
     content: >-
-      Together with the audience, three dancers go through Treatment of
-      Remembering, in the language of contemporary dance and physical theatre.
-      The theme of the performance is based on the relationship to nature and
-      the difficult development of the state of the environment. The performance
-      is set in an indeterminate context, whose space evokes a feeling of the
-      absence of real contact with nature.
+      Imagine you are breathing.
 
 
-      The premiere took place on October 5, 2020, at PONEC – Theatre for Dance, Prague, Czech Republic
+      Nature is dead and there is no going back. Do you remember how it felt when we could breathe together? When we could bury our feet in the grass? When raindrops fell on us? Three performers lead the audience in a ritual of remembrance at a time when the natural world, exhausted by humanity, no longer exists.
+
+
+      Set in an artificial imitation of the universe, they reflect on the ever increasing replacement of nature with the built environment. Treatment of Remembering encourages us to look inside and awaken long forgotten memories; it draws attention to the uniqueness of physical and emotional experiences connected with nature. Minimalist choreography and scenography create a sense of timelessness, complemented by a complex and sensitive musical composition and intense lighting states, which offer a dense statement on origin and extinction. A delicate and expressive apocalyptic vision, the work is both a meditative social critique and a guide to shaping a new world. 
+
+
+      (text published on Aerowaves.org)
+
+
+
+
+      The premiere took place on October 5, 2020, at Ponec - Theatre for Dance, Prague, Czech Republic
   - type: text
     content: >-
       concept: Johana Pockova
