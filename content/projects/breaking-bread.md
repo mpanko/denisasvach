@@ -31,4 +31,14 @@ content:
     span: false
     vertical: false
     vimeoId: "310400423"
+  - type: image
+    span: false
+    vertical: false
+    alt: breaking bread
+    src: /images/breaking-bread_1.jpg
+  - type: image
+    span: false
+    vertical: false
+    alt: breaking bread
+    src: /images/breaking-bread_4.jpg
 ---
