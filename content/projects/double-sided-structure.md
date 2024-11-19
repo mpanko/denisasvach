@@ -3,7 +3,7 @@ id: double-sided-structure
 title: Double-sided Structure
 order: 5
 image: /images/double-sided-structure_thumbnail-image.webp
-description: A textile project exploring the contrast between protection and
+description: Textile project exploring the contrast between protection and
   vulnerability, using a costume and object made from soft and harsh materials.
 content:
   - type: text
