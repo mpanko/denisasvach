@@ -2,7 +2,7 @@
 id: have-you-seen-these-people
 title: Have You Seen These People
 order: 12
-image: /images/have-you-seen-these-people-thumbnail.jpg
+image: /images/hystp_thumbnail-image2.jpg
 description: >
   Exploration of chance encounters and hidden stories captured through found
   film negatives.
