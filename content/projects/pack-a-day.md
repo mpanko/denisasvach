@@ -37,6 +37,11 @@ content:
   - type: image
     span: false
     vertical: false
+    src: /images/pack-a-day_1.jpg
+    alt: pack a day
+  - type: image
+    span: false
+    vertical: false
     src: /images/pack-a-day_3.jpg
     alt: pack a day
   - type: image
@@ -48,11 +53,6 @@ content:
     span: false
     vertical: false
     src: /images/pack-a-day_4.jpg
-    alt: pack a day
-  - type: image
-    span: false
-    vertical: false
-    src: /images/pack-a-day_1.jpg
     alt: pack a day
   - type: image
     span: false
