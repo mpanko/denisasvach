@@ -38,8 +38,8 @@ content:
     alt: silent stage
     src: /images/silent-stage_2.jpg
   - type: image
-    span: true
-    vertical: false
+    span: false
+    vertical: true
     alt: silent stage
     src: /images/silent-stage_3.jpg
 ---
