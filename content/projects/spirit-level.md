@@ -3,7 +3,7 @@ id: spirit-level
 title: Spirit Level
 order: 13
 image: /images/spirit-level_thumbnail-image.jpg
-description: An interactive performance inviting visitors to explore balance and
+description: Interactive performance inviting visitors to explore balance and
   movement through guided exercises and object interactions.
 content:
   - type: text
