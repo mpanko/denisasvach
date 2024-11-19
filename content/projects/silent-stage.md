@@ -31,7 +31,7 @@ content:
   - type: youtube
     span: false
     vertical: false
-    youtubeId: iynmlExlz5c&t=8s
+    youtubeId: iynmlExlz5c
   - type: image
     span: false
     vertical: true
