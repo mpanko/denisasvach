@@ -47,4 +47,43 @@ content:
 
 
       dramaturgical consulting: Petra Hauerova
+  - type: vimeo
+    span: true
+    vertical: false
+    vimeoId: "679050785"
+  - type: image
+    span: true
+    vertical: false
+    src: /images/treatment-of-remembering_2.webp
+    alt: treatment of remembering
+  - type: image
+    span: false
+    vertical: false
+    src: /images/treatment-of-remembering_1.jpg
+    alt: treatment of remembering_
+  - type: image
+    span: false
+    vertical: false
+    src: /images/treatment-of-remembering_3.jpg
+    alt: treatment of remembering_
+  - type: image
+    span: false
+    vertical: false
+    src: /images/treatment-of-remembering_5.jpg
+    alt: treatment of remembering_
+  - type: image
+    span: false
+    vertical: false
+    src: /images/treatment-of-remembering_6.jpg
+    alt: treatment of remembering_
+  - type: image
+    span: false
+    vertical: false
+    src: /images/treatment-of-remembering_7.jpg
+    alt: treatment of remembering_
+  - type: image
+    span: false
+    vertical: false
+    src: /images/treatment-of-remembering_8.jpg
+    alt: treatment of remembering_
 ---
