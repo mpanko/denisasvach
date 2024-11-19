@@ -61,7 +61,7 @@ content:
     alt: Blueprint
     src: /images/blueprint_6.webp
   - type: vimeo
-    span: false
+    span: true
     vertical: false
     vimeoId: "241899768"
 ---
