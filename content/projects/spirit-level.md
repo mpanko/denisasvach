@@ -47,13 +47,13 @@ content:
   - type: image
     span: false
     vertical: false
-    src: /images/spirit-level_3.webp
     alt: spirit level
+    src: /images/spirit-level_6.webp
   - type: image
     span: false
     vertical: false
     alt: spirit level
-    src: /images/spirit-level_6.webp
+    src: /images/spirit-level_4.jpg
   - type: vimeo
     span: false
     vertical: false
@@ -61,8 +61,8 @@ content:
   - type: image
     span: false
     vertical: false
+    src: /images/spirit-level_3.webp
     alt: spirit level
-    src: /images/spirit-level_4.jpg
   - type: text
     content: >-
       
