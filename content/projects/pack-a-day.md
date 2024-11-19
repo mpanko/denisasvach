@@ -47,12 +47,12 @@ content:
   - type: image
     span: false
     vertical: false
-    src: /images/pack-a-day_1.jpg
+    src: /images/pack-a-day_4.jpg
     alt: pack a day
   - type: image
     span: false
     vertical: false
-    src: /images/pack-a-day_4.jpg
+    src: /images/pack-a-day_1.jpg
     alt: pack a day
   - type: image
     span: false
