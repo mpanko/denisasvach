@@ -3,7 +3,7 @@ id: black-wreath
 title: Black Wreath
 order: 6
 image: /images/black-wreath_thumbnail-image.jpg
-description: A collection of laser-cut leather headbands and necklaces.
+description: Collection of laser-cut leather headbands and necklaces.
 content:
   - type: text
     content: >-
