@@ -27,10 +27,10 @@ content:
 
       photo: Filip Slivka
   - type: text
-    content: Collecting Addictions exhibition delves into the passion for collecting
-      and the irresistible need to accumulate and archive common, often
-      unnecessary items. Denisa Svachova uses ready-made techniques to elevate
-      found objects into artifacts of artistic value, recycling and
+    content: "*Collecting Addictions* exhibition delves into the passion for
+      collecting and the irresistible need to accumulate and archive common,
+      often unnecessary items. Denisa Svachova uses ready-made techniques to
+      elevate found objects into artifacts of artistic value, recycling and
       recontextualizing mundane items. Her focus lies on artifacts from the
       pharmaceutical and tobacco industries, highlighting the massive profits
       these sectors generate within global consumer chains. Svachova’s work
@@ -38,7 +38,7 @@ content:
       pharmaceutical industry, where he exposes aggressive marketing tactics and
       the corruption of scientific integrity. Together, they offer distinct yet
       complementary artistic languages, unified by the theme of “collecting as a
-      dependency”.
+      dependency”."
   - type: image
     span: false
     vertical: false
