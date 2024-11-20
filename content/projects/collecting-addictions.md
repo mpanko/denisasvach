@@ -13,7 +13,8 @@ content:
 
 
 
-      An exhibition exploring the compulsive drive to collect everyday objects, transforming them into new aesthetic and conceptual realms, presented at GAVU gallery in Prague, Czech Republic in 2013.
+
+      The exhibition was presented at GAVU gallery in Prague, Czech Republic in 2013.
 
 
 
@@ -26,8 +27,7 @@ content:
 
       photo: Filip Slivka
   - type: text
-    content: >-
-      Collecting Addictions exhibition delves into the passion for collecting
+    content: Collecting Addictions exhibition delves into the passion for collecting
       and the irresistible need to accumulate and archive common, often
       unnecessary items. Denisa Svachova uses ready-made techniques to elevate
       found objects into artifacts of artistic value, recycling and
@@ -39,9 +39,6 @@ content:
       the corruption of scientific integrity. Together, they offer distinct yet
       complementary artistic languages, unified by the theme of “collecting as a
       dependency”.
-
-
-      The exhibition was presented at GAVU gallery in Prague, Czech Republic in 2013.
   - type: image
     span: false
     vertical: false
