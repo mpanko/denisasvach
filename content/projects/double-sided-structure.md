@@ -11,11 +11,7 @@ content:
       2015
 
 
-
-
-      The Double-Sided Structure project was created during my student exchange at the Academy of Arts, Architecture and Design in Prague, Czech Republic, in 2015
-
-
+      The *Double-Sided Structure* project was created during my student exchange at the Academy of Arts, Architecture and Design in Prague, Czech Republic, in 2015
 
 
       object, dress: Denisa Svachova
@@ -24,7 +20,7 @@ content:
       photo: Filip Kartousek
   - type: text
     content: This work explores the contrast between protection and vulnerability.
-      Under the name Double-Sided Structure, I created a costume and an object
+      Under the name *Double-Sided Structure*, I created a costume and an object
       that a person can step into, offering a sense of security. Both the
       costume and object feature distinctive hoods, highlighting the contrast
       between softness and discomfort. Inside, the materials are soft and
