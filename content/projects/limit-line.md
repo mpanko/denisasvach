@@ -8,11 +8,19 @@ description: Performance exploring physical and mental limits through body
   experience of trying to manage too many tasks at once.
 content:
   - type: text
-    content: >-
-      
-      For Limit Line performance (2017), I created constructions that mirrored body movement in strict verticals and horizontals. The performance began with the steady rhythm of a metronome, which I initially followed while mimicking the shapes of the structures. Over time, I began to increase my speed, attempting to handle more movements at once. As the tempo became overwhelming, I turned off the metronome.
+    content: |-
+      **2017**
+
+      performance took place at the Academy of Fine Arts in Prague in 2017.
+
+      *concept, creation, performing:* **Denisa Svachova**
   - type: text
-    content: created and performed by Denisa Svachova
+    content: For *Limit Line* performance (2017), I created constructions that
+      mirrored body movement in strict verticals and horizontals. The
+      performance began with the steady rhythm of a metronome, which I initially
+      followed while mimicking the shapes of the structures. Over time, I began
+      to increase my speed, attempting to handle more movements at once. As the
+      tempo became overwhelming, I turned off the metronome.
   - type: image
     span: false
     vertical: false
