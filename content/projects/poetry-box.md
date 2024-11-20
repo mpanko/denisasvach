@@ -11,16 +11,20 @@ content:
       2014
 
 
+
+
       *Poetry Box* was presented at *Garáž* gallery in Zlin, Czech Republic in 2014.
 
 
-      created by Denisa Svachova
 
 
-      curator: Vojtech Skacel
+      *concept and creation:* Denisa Svachova
 
 
-      poets: Robert Jaworek, Filip Trunkat, Frantisek Sevcik
+      *curator:* Vojtech Skacel
+
+
+      *poets:* Robert Jaworek, Filip Trunkat, Frantisek Sevcik
   - type: text
     content: The installation invited three poets—Robert Jaworek, Filip Trunkat, and
       František Sevcik—to read their poems locked in the box, without direct
