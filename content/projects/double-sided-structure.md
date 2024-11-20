@@ -1,6 +1,6 @@
 ---
 id: double-sided-structure
-title: Double-sided Structure
+title: Double-Sided Structure
 order: 5
 image: /images/double-sided-structure_thumbnail-image.webp
 description: Textile project exploring the contrast between protection and
