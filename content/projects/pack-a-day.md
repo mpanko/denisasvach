@@ -51,12 +51,12 @@ content:
   - type: image
     span: false
     vertical: false
-    src: /images/pack-a-day_3.jpg
+    src: /images/pack-a-day_2.jpg
     alt: pack a day
   - type: image
     span: false
     vertical: false
-    src: /images/pack-a-day_2.jpg
+    src: /images/pack-a-day_3.jpg
     alt: pack a day
   - type: image
     span: false
