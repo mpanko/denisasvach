@@ -11,11 +11,7 @@ content:
       2014
 
 
-
-
-      Presented at the MONUMENT I exhibition (NoD Gallery, Prague, Czech Republic) in 2015.
-
-
+      Presented at the *MONUMENT I* exhibition (NoD Gallery, Prague, Czech Republic) in 2015.
 
 
       created by Denisa Svachova
