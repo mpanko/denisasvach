@@ -32,11 +32,11 @@ content:
       smokers. My aim was to create as accurate description of each person's
       individual approach to smoking and capture the authenticity of their
       personal approach to it. For several years I also took pictures of my own
-      cigarettes that I smoke. I used these photos for the performance In The
-      Heat Of 7', 2017.
+      cigarettes that I smoke. I used these photos for the performance *In The
+      Heat Of 7' (*2017).
 
 
-      In the work Pack a Day (2014), I focused on cigarette packs. At the beginning, I collected all the boxes. On some of the boxes, I have found various handwritten messages forgotten cigarettes, papers, or tickets. However, my main focus was on the boxes from one particular person, my father. He used to smoke a pack of cigarettes a day. He created this habit to control his consumption and regulate how much he smokes. The particular consistency of this habit has inspired me to create a calendar from each box that he smoked every day.
+      In the work *Pack a Day* (2014), I focused on cigarette packs. At the beginning, I collected all the boxes. On some of the boxes, I have found various handwritten messages forgotten cigarettes, papers, or tickets. However, my main focus was on the boxes from one particular person, my father. He used to smoke a pack of cigarettes a day. He created this habit to control his consumption and regulate how much he smokes. The particular consistency of this habit has inspired me to create a calendar from each box that he smoked every day.
 
 
       Each sheet of paper is made from a single cigarette pack, and to make my father's "a pack a day" rule clear, each page has a date stamped on it. I created the paper using the carpet technique, which really achieved the effect of each paper being made from just one cigarette box. Depending on which box I used, the paper is a slightly different color and texture. 
