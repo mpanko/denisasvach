@@ -8,17 +8,17 @@ description: Interactive art installation that invites visitors to explore new
 content:
   - type: text
     content: >-
-      2014
+      **2014**
 
 
       Presented at the *MONUMENT I* exhibition (NoD Gallery, Prague, Czech Republic) in 2015.
 
 
-      created by Denisa Svachova
+      *concept and creation:* **Denisa Svachova**
 
-      photo: Filip Kartousek
+      *photo:* **Filip Kartousek**
 
-      model: Denisa Svachova
+      *model:* **Denisa Svachova**
   - type: text
     content: "*White Tubes* encourages visitors to engage physically: sitting,
       climbing, or lying down to experience the space from a different
@@ -45,9 +45,9 @@ content:
       to observe people above through the gaps.
   - type: text
     content: |-
-      photo below: Denisa Svachova
+      *photo below:* **Denisa Svachova**
 
-      models: Tereza Brussmanova, Lucie Dolezalova
+      *models:* **Tereza Brussmanova, Lucie Dolezalova**
   - type: image
     span: false
     vertical: true
