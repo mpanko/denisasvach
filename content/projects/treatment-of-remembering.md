@@ -3,8 +3,8 @@ id: treatment-of-remembering
 title: Treatment of Remembering
 order: 17
 image: /images/treatment-of-remembering_thumbnail-image2.jpg
-description: Three dancers with the audience undergo the Treatment of
-  Remembering, exploring connection to nature in a space marked by its absence.
+description: Three dancers with the audience are exploring a connection to
+  nature in a space marked by its absence.
 content:
   - type: text
     content: >-
