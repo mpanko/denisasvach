@@ -9,24 +9,42 @@ description: Video performance examining how individuals interpret and react
 content:
   - type: text
     content: >-
+      
+
+
+      **2018**
+
+
+      Presented at the exhibition *Another Place* at the Academy of Fine Arts in Prague in 2018.
+
+
+      *concept:* **Tvary**
+
+
+      *direction:* **Denisa Svachova**
+
+
+      *performers:* **Nela Britaňáková, Jan Pancocha**
+
+
+      *voice:* **Denisa Svachova**
+
+
+      *camera:* **Giullio Zannol, David Prilucik**
+
+
+
+      *post-production:* **Denisa Svachova**
+
+
+      *light design:* **Isrohan Alvarez**
+  - type: text
+    content: >-
       Breaking Bread is a video performance exploring the theme of manipulation
       and the diverse ways individuals interpret and react to the same commands.
 
 
       The performance involves two participants seated on opposite sides of a round table, separated by a wall. Although physically and mentally isolated, they remain aware of each other's presence. Both participants receive identical instructions through headphones, beginning with an awareness of their own bodies. As the performance progresses, the commands escalate from simple motivational cues to increasingly absurd directives, highlighting the variations in human response.
-  - type: text
-    content: |-
-      concept: Tvary
-
-      direction: Denisa Svachova
-
-      performers: Nela Britaňáková, Jan Pancocha
-
-      voice: Denisa Svachova
-
-      camera: Giullio Zannol, David Prilucik
-
-      light design: Isrohan Alvarez
   - type: vimeo
     span: true
     vertical: false
