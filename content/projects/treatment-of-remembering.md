@@ -8,6 +8,10 @@ description: Three dancers with the audience undergo the Treatment of
 content:
   - type: text
     content: >-
+      
+      set design: Denisa Svachova
+
+
       concept: Johana Pockova
 
 
@@ -21,9 +25,6 @@ content:
 
 
       sound design: Jakub Stourac
-
-
-      set design: Denisa Svachova
 
 
       light design: Michal Horacek
