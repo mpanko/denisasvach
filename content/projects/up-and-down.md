@@ -32,16 +32,32 @@ content:
       
       *Up and Down* transforms a public seesaw into an interactive installation for two participants, exploring balance and connection. Guided by a voice-over and music, participants engage with small objects hidden in the seesaw, symbolizing the process of building a new relationship.
   - type: image
-    src: /images/up-and-down-1.jpg
-    alt: Overview of Up and Down installation
     span: true
+    vertical: false
+    src: /images/up-and-down_1.jpg
+    alt: up and down
   - type: image
-    src: /images/up-and-down-2.jpg
-    alt: Participants climbing the sculptural structure
+    span: false
+    vertical: true
+    src: /images/up-and-down_2.jpg
+    alt: up and down
   - type: image
-    src: /images/up-and-down-3.jpg
-    alt: Detail of interactive elements within the sculpture
+    span: false
+    vertical: true
+    src: /images/up-and-down_3.jpg
+    alt: up and down
+  - type: youtube
+    span: false
+    vertical: false
+    youtubeId: wMPc_VgyBec
   - type: image
-    src: /images/up-and-down-4.jpg
-    alt: View from the top of the Up and Down structure
+    span: true
+    vertical: false
+    src: /images/up-and-down_4.jpg
+    alt: up and down
+  - type: image
+    span: true
+    vertical: false
+    src: /images/up-and-down_5.jpg
+    alt: up and down
 ---
