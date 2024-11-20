@@ -7,24 +7,31 @@ description: Solo performance in the game of strict boundaries where imagery and
   longing intertwine, leaving an echo that resonates in the chest.
 content:
   - type: text
-    content: Saudade is a game with strict boundaries in which imagery and longing
-      go hand in hand. It’s a puffed-out void that bursts and hits you right
-      into your chest. It’s whispering at the edge of actuality. Saudade – the
-      sensation of lacking, grief for something beloved that disappeared or has
-      never been here. Solo by a dancer and choreographer, Alica Minárová, who
-      through the character of a stripper searches for natural sensuality that
-      doesn’t deprive the female body of dignity by showing it.
-  - type: text
     content: |-
-      choreography, performing: Alica Minar
+      
 
-      dramaturgy: Šimon Peták
 
-      visual concept and solution: Denisa Svachova
+      **2019**
 
-      music: Lukáš Palán
+      premiered at Studio Alta in Prague in 2019
 
-      light design: Eliška Kocianová, Michal Horacek
+      *visual concept and solution:* **Denisa Svachova**
+
+      *choreography, performing:* **Alica Minar**
+
+      *dramaturgy:* **Simon Petak**
+
+      *music:* **Lukas Palan**
+
+      *light design:* **Eliska Kocianova, Michal Horacek**
+
+      *Costume design:* **Judita Mejstrikova**
+
+      *Photo:* **Anna Benhakova, Richard Hodonicky, Jan Petyrek**
+  - type: text
+    content: >-
+      
+      *Saudade* is a game with strict boundaries in which imagery and longing go hand in hand. It’s a puffed-out void that bursts and hits you right into your chest. It’s whispering at the edge of actuality. Saudade – the sensation of lacking, grief for something beloved that disappeared or has never been here. Solo by a dancer and choreographer, Alica Minar, who through the character of a stripper searches for natural sensuality that doesn’t deprive the female body of dignity by showing it.
   - type: image
     src: /images/saudade_1.jpg
     alt: Overview of Saudade installation
