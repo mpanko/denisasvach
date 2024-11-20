@@ -24,22 +24,22 @@ content:
       
       *Do You Mind If I Join You?* centers on the experience of expats, combining verbal interviews with movement improvisation to reveal more than words alone. Filmed in Zurich, Prague, and Zlin, I asked six participants around ten questions each, allowing them to respond in their preferred language. The interviews took place in intimate settings, followed by outdoor dance improvisations inspired by their shared stories.
   - type: image
-    span: false
+    span: true
     vertical: false
     src: /images/dymiijy_1.webp
     alt: Do You Mnind If I Join You
   - type: image
-    span: false
+    span: true
     vertical: false
     src: /images/dymiijy2.webp
     alt: Do You Mnind If I Join You
   - type: image
-    span: false
+    span: true
     vertical: false
     src: /images/dymiijy3.webp
     alt: Do You Mnind If I Join You
   - type: image
-    span: false
+    span: true
     vertical: false
     src: /images/dymiijy4.webp
     alt: Do You Mnind If I Join You
