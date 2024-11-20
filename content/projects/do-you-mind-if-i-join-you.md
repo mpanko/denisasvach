@@ -8,7 +8,6 @@ description: A video project blending expat interviews with dance improvisation
 content:
   - type: text
     content: >-
-      
       **2022**
 
 
@@ -18,7 +17,7 @@ content:
       *direction, camera, postproduction:* **Denisa Svachova**
 
 
-      *interviewees:* **Richard Blaško, Markéta Pščolková, Alica Minárová, Joel Isaac Chmela, Karolina Jansová, Nora Brown**
+      *interviewees:* **Richard Blaško, Marketa Pscolkova, Alica Minarova, Joel Isaac Chmela, Karolina Jansova, Nora Brown**
   - type: text
     content: >-
       
