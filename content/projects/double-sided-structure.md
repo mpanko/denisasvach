@@ -8,7 +8,22 @@ description: Textile project exploring the contrast between protection and
 content:
   - type: text
     content: >-
-      This work explores the contrast between protection and vulnerability.
+      2015
+
+
+
+
+      The Double-Sided Structure project was created during my student exchange at the Academy of Arts, Architecture and Design in Prague, Czech Republic, in 2015
+
+
+
+
+      object, dress: Denisa Svachova
+
+
+      photo: Filip Kartousek
+  - type: text
+    content: This work explores the contrast between protection and vulnerability.
       Under the name Double-Sided Structure, I created a costume and an object
       that a person can step into, offering a sense of security. Both the
       costume and object feature distinctive hoods, highlighting the contrast
@@ -16,16 +31,6 @@ content:
       comfortable, while the outer surfaces are sharp and uninviting. The object
       combines soft white cotton with perforated metal mesh, and the costume
       uses the same cotton alongside plastic netting.
-
-
-      The Double-Sided Structure project was created during my student exchange at the Academy of Arts, Architecture and Design in Prague, Czech Republic, in 2015.
-  - type: text
-    content: |-
-      object, dress: Denisa Svachova
-
-      photo: Filip Kartousek
-
-      model: Denisa Svachova, Katerina Urbanova
   - type: image
     span: false
     vertical: false
