@@ -8,24 +8,19 @@ description: Exhibition exploring the compulsive drive to collect everyday
 content:
   - type: text
     content: >-
-      2013
-
-
-
+      **2013**
 
 
       The exhibition was presented at GAVU gallery in Prague, Czech Republic in 2013.
 
 
+      *artists:* **Denisa Svachova, Peter Valiska-Timecko**
 
 
-      artists: Denisa Svachova, Peter Valiska-Timecko
+      *curator:* **Katerina Vincourova**
 
 
-      curator: Katerina Vincourova
-
-
-      photo: Filip Slivka
+      *photo:* **Filip Slivka**
   - type: text
     content: "*Collecting Addictions* exhibition delves into the passion for
       collecting and the irresistible need to accumulate and archive common,
