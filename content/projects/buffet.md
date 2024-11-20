@@ -8,9 +8,6 @@ description: A dancer, dressed in a round table-shaped costume, offers sweet
 content:
   - type: text
     content: >-
-      
-
-
       **2022**
 
 
@@ -21,6 +18,10 @@ content:
 
 
       *performing:* **Marketa Pscolkova**
+
+
+
+      *photo:* **Sebastian Lendenmann, Denisa Svachova**
   - type: text
     content: >-
       
@@ -53,13 +54,13 @@ content:
       
 
 
-      **Do You Mind If I Join You?**  performance
+      **Do You Mind If I Join You?**  
 
 
       **2021**
 
 
-      The performance was created in collaboration with Pscolkova during a one-month artist residency at the Egon Schiele Art Centre in Český Krumlov and premiered at Pradelna Cultural Centre in Cesky Krumlov, Czech Republic in 2021.
+      A performance created in collaboration with Pscolkova during a one-month artist residency at the Egon Schiele Art Centre in Český Krumlov and premiered at Pradelna Cultural Centre in Cesky Krumlov, Czech Republic in 2021.
 
 
       *concept, creation:* **Denisa Svachova, Marketa Pscolkova**
@@ -69,6 +70,10 @@ content:
 
 
       *performing:* **Marketa Pscolkova**
+
+
+
+      *photo:* **Dominika Lewis, Lucie Dolezalova**
   - type: text
     content: >-
       
