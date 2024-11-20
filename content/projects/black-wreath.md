@@ -7,20 +7,16 @@ description: Collection of laser-cut leather headbands and necklaces.
 content:
   - type: text
     content: >-
-      2015
-
-
+      **2015**
 
 
       Created during my student exchange at the Academy of Arts, Architecture and Design in Prague, Czech Republic, in 2015.
 
 
+      *jewellery:* **Denisa Svachova**
 
 
-      jewellery: Denisa Svachova
-
-
-      photo: Filip Kartousek
+      *photo:* **Filip Kartousek**
   - type: text
     content: >-
       
