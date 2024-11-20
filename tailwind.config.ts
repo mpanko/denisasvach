@@ -31,6 +31,10 @@ const config: Config = {
               textTransform: 'uppercase',
               fontWeight: 'bold',
             },
+            strong: {
+              color: 'var(--foreground)',
+              fontWeight: '700',
+            },
           },
         },
         invert: {
@@ -45,6 +49,10 @@ const config: Config = {
             },
             'h1, h2, h3, h4, h5, h6': {
               color: 'var(--background)',
+            },
+            strong: {
+              color: 'var(--background)',
+              fontWeight: '700',
             },
           },
         },

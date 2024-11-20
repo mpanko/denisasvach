@@ -45,7 +45,7 @@ export default async function Home() {
                   className="object-cover p-4 group-hover:bg-black"
                 />
               </div>
-              <div className="p-4">
+              <div className="pb-4 pl-4 pr-4 ">
                 <h3 className="text-2xl font-bold uppercase mb-2 group-hover:text-white">
                   {project.title}
                 </h3>
