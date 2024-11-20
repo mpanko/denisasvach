@@ -13,7 +13,7 @@ content:
       **2016**
 
 
-      This performative ritual was held privately in a pendopo at my friend's home with Julie Lupacova in Yogyakarta in 2016.
+      This performative ritual was held privately in a pendopo at my friend's home with Julie Lupacova in Yogyakarta, Indonesia, in 2016.
 
 
       concept and creation: **Denisa Svachova**
