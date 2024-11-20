@@ -9,17 +9,13 @@ description: Installation that transforms used cigarette packs into individual
 content:
   - type: text
     content: >-
-      2014
-
-
+      **2014**
 
 
       The installation was exhibited at the semester exhibition at the Academy of Fine Arts in Prague in 2014.
 
 
-
-
-      created by Denisa Svachova
+      *concept and creation:* **Denisa Svachova**
   - type: text
     content: >-
       Smoking a cigarette, as the act itself, has become a source of inspiration
