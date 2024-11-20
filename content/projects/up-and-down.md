@@ -2,7 +2,7 @@
 id: up-and-down
 title: Up and Down
 order: 21
-image: /images/up-and-down-thumbnail.jpg
+image: /images/up-and-down_thumbnail.jpg
 description: An interactive performance transforming a seesaw into a space for
   two people to explore balance and connection.
 content:
