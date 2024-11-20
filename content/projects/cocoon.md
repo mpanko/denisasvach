@@ -9,11 +9,10 @@ description: A site-specific textile installation created for a traditional
 content:
   - type: text
     content: >-
-      
       **2016**
 
 
-      This performative ritual was held privately in a pendopo at my friend's home with Julie Lupacova in Yogyakarta, Indonesia, in 2016.
+      This performative ritual was held privately in a *pendopo* at my friend's home with Julie Lupacova in Yogyakarta, Indonesia, in 2016.
 
 
       concept and creation: **Denisa Svachova**
@@ -24,9 +23,14 @@ content:
 
       model: **Zuzana Sklibova, Denisa Svachova**
   - type: text
-    content: >-
-      
-      *Cocoon* is a site-specific textile installation created for a traditional Indonesian gazebo called pendopo. The piece comes to life through the interaction of two participants, who generate a spatial composition by wrapping and unwrapping fabric around themselves and the pendopo's pillars. One participant sits in the center, hidden and wrapped in fabric on a wheeled object, while the other winds the fabric around themselves and pulls the object to one side, prompting the seated participant to emerge and unravel.
+    content: "*Cocoon* is a site-specific textile installation created for a
+      traditional Indonesian gazebo called *pendopo*. The piece comes to life
+      through the interaction of two participants, who generate a spatial
+      composition by wrapping and unwrapping fabric around themselves and the
+      pendopo's pillars. One participant sits in the center, hidden and wrapped
+      in fabric on a wheeled object, while the other winds the fabric around
+      themselves and pulls the object to one side, prompting the seated
+      participant to emerge and unravel."
   - type: image
     span: false
     vertical: false
