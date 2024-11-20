@@ -7,13 +7,24 @@ description: Collection of laser-cut leather headbands and necklaces.
 content:
   - type: text
     content: >-
-      
-      A collection of laser-cut leather headbands and necklaces. *Black Wreath* was created during my student exchange at the Academy of Arts, Architecture and Design in Prague, Czech Republic, in 2015.
-  - type: text
-    content: |-
+      2015
+
+
+
+
+      Created during my student exchange at the Academy of Arts, Architecture and Design in Prague, Czech Republic, in 2015.
+
+
+
+
       jewellery: Denisa Svachova
 
+
       photo: Filip Kartousek
+  - type: text
+    content: >-
+      
+      *Black Wreath* is a collection of laser-cut leather headbands and necklaces.
   - type: image
     span: false
     vertical: true
