@@ -14,7 +14,7 @@ content:
       **2023**
 
 
-      the video *Back into the Desert* was presented as part of the ACT Performance Festival in Zurich, Switzerland in 2023.
+      the video *Back into the Desert* was presented as part of the ACT Performance Festival in Zurich, Switzerland, in 2023.
 
 
       *Concept, video:* **Denisa Svachova**
