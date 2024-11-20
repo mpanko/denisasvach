@@ -14,7 +14,7 @@ content:
 
 
 
-      An installation that transforms used cigarette packs into individual sheets of paper, each representing one day of my father's smoking habit, exploring repetition, memory, and personal ritual through everyday objects.
+      The installation was exhibited at the semester exhibition at the Academy of Fine Arts in Prague in 2014.
 
 
 
