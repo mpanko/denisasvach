@@ -7,22 +7,26 @@ description: Three poets were invited to read their works, locked inside the
   box, with no direct contact with the audience.
 content:
   - type: text
-    content: >-
-      The installation invited three poets—Robert Jaworek, Filip Trunkat, and
-      František Sevcik—to read their poems locked in the box, without direct
-      contact with the audience. Isolated inside the mirrored space, the poets
-      had no way of knowing the audience's reactions, devoid of the usual
-      feedback from eye contact or visible cues.
-
-
-      *Poetry Box* was presented at *Garáž* gallery in Zlin, Czech Republic in 2014.
-  - type: text
     content: |-
+      2014
+
+
+
+      Poetry Box was presented at Garáž Gallery in Zlin, Czech Republic in 2014.
+
+
+
       created by Denisa Svachova
 
       curator: Vojtech Skacel
 
       poets: Robert Jaworek, Filip Trunkat, Frantisek Sevcik
+  - type: text
+    content: The installation invited three poets—Robert Jaworek, Filip Trunkat, and
+      František Sevcik—to read their poems locked in the box, without direct
+      contact with the audience. Isolated inside the mirrored space, the poets
+      had no way of knowing the audience's reactions, devoid of the usual
+      feedback from eye contact or visible cues.
   - type: image
     span: false
     vertical: true
