@@ -8,22 +8,28 @@ description: Interactive art installation that invites visitors to explore new
 content:
   - type: text
     content: >-
-      *White Tubes* encourages visitors to engage physically: sitting, climbing,
-      or lying down to experience the space from a different perspective. The
-      installation shifts the perception of space, stripping away unnecessary
-      elements to focus solely on the raw forms. This spatial arrangement
-      created an intimate yet public interaction, exploring minimalist ideas of
-      presence and direct engagement with the environment.
+      2014
 
 
-      Presented at the *MONUMENT I* exhibition (NoD Gallery, Prague, Czech Republic) in 2015.
-  - type: text
-    content: |-
+
+
+      Presented at the MONUMENT I exhibition (NoD Gallery, Prague, Czech Republic) in 2015.
+
+
+
+
       created by Denisa Svachova
 
       photo: Filip Kartousek
 
       model: Denisa Svachova
+  - type: text
+    content: "*White Tubes* encourages visitors to engage physically: sitting,
+      climbing, or lying down to experience the space from a different
+      perspective. The installation shifts the perception of space, stripping
+      away unnecessary elements to focus solely on the raw forms. This spatial
+      arrangement created an intimate yet public interaction, exploring
+      minimalist ideas of presence and direct engagement with the environment."
   - type: image
     src: /images/white-tubes_1.jpg
     alt: "White Tubes installation "
