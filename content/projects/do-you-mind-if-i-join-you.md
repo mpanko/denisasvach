@@ -1,6 +1,6 @@
 ---
 id: do-you-mind-if-i-join-you
-title: Do You Mnind If I Join You?
+title: Do You Mind If I Join You?
 order: 22
 image: /images/dymiijy_thumbnail-image2.jpg
 description: A video project blending expat interviews with dance improvisation
