@@ -8,9 +8,6 @@ description: A live performance exploring the sonic shift from the era of heavy
 content:
   - type: text
     content: >-
-      
-
-
       **2023**
 
 
@@ -24,6 +21,9 @@ content:
 
 
       *mezzo-soprano:* **Eliska zajicova**
+
+
+      *photo:* **Katerina sedy, Denisa Svachova**
   - type: text
     content: "*A Lyric of Machines* investigates the transformation of soundscapes
       from the mechanical world to digital environments, evident in both urban
