@@ -2,7 +2,7 @@
 id: do-you-mind-if-i-join-you
 title: Do You Mnind If I Join You?
 order: 22
-image: /images/dymiijy_thumbnail-image.webp
+image: /images/dymiijy_thumbnail-image2.jpg
 description: A video project blending expat interviews with dance improvisation
   to explore life abroad through non-disciplinary movement.
 content:
@@ -41,5 +41,10 @@ content:
     span: true
     vertical: false
     src: /images/dymiijy4.webp
+    alt: Do You Mnind If I Join You
+  - type: image
+    span: false
+    vertical: false
+    src: /images/dymiijy_6.jpg
     alt: Do You Mnind If I Join You
 ---
