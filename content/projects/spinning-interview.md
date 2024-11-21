@@ -1,7 +1,7 @@
 ---
 id: spinning-interview
 title: Spinning Interview
-order: 24
+order: 25
 image: /images/spinning-interview_thumbnail-image.jpg
 description: >
   An interactive installation exploring the concept of home through spinning and
