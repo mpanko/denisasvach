@@ -25,6 +25,11 @@ content:
   - type: image
     span: true
     vertical: false
+    src: /images/dymiijy4.webp
+    alt: Do You Mnind If I Join You
+  - type: image
+    span: true
+    vertical: false
     src: /images/dymiijy_1.webp
     alt: Do You Mnind If I Join You
   - type: image
@@ -39,11 +44,6 @@ content:
     alt: Do You Mnind If I Join You
   - type: image
     span: true
-    vertical: false
-    src: /images/dymiijy4.webp
-    alt: Do You Mnind If I Join You
-  - type: image
-    span: false
     vertical: false
     src: /images/dymiijy_6.jpg
     alt: Do You Mnind If I Join You
