@@ -8,9 +8,6 @@ description: Collective dreaming and mythical encounters with the landscape
 content:
   - type: text
     content: >-
-      
-
-
       **2021**
 
 
@@ -18,6 +15,10 @@ content:
 
 
       *scenography:* **Denisa Svachova** (for Lucie Frycova's project *You Can Close Your Eyes*)
+
+
+
+      *Foto:* **Ondrej Besperat**
   - type: text
     content: >-
       
