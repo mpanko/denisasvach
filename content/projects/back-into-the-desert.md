@@ -8,27 +8,36 @@ description: Immersive experience set in an endless desert, inviting the
 content:
   - type: text
     content: >-
-      
-
-
       **2023**
 
 
       the video *Back into the Desert* was presented as part of the ACT Performance Festival in Zurich, Switzerland, in 2023.
 
 
+
+
       *Concept, video:* **Denisa Svachova**
+
+
 
       *participants:* **Jan Pancocha, Denisa Svachova**
 
+
+
       *Voice-over:* **Anna Hovorkova**
+
+
 
 
       *Photo:* **Peter Majercik**
 
 
 
+
       [Listen on SoundCloud](https://soundcloud.com/tvaryshapes/desert?si=b1ad62b066014c668a09b87c4053dd7a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+
+
+      [](https://soundcloud.com/tvaryshapes/desert?si=b1ad62b066014c668a09b87c4053dd7a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
   - type: text
     content: >-
       [](https://soundcloud.com/tvaryshapes/desert?si=b1ad62b066014c668a09b87c4053dd7a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
