@@ -31,7 +31,7 @@ content:
     span: false
     vertical: true
     alt: Singer
-    src: /images/singer_1.webp
+    src: /images/singer_4.webp
   - type: image
     span: false
     vertical: true
@@ -41,10 +41,5 @@ content:
     span: false
     vertical: true
     alt: Singer
-    src: /images/singer_4.webp
-  - type: image
-    span: false
-    vertical: true
-    alt: Singer
-    src: /images/singer_3b.jpg
+    src: /images/singer_1.webp
 ---
