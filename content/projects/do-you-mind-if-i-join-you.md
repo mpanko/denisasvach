@@ -18,6 +18,10 @@ content:
 
 
       *interviewees:* **Richard Blaško, Marketa Pscolkova, Alica Minarova, Joel Isaac Chmela, Karolina Jansova, Nora Brown**
+
+
+
+      [Instagram](https://www.instagram.com/do_you_mind_if_i_join_you_/)
   - type: text
     content: >-
       
