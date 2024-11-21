@@ -2,7 +2,7 @@
 id: singer
 title: Singer
 order: 26
-image: /images/singer_thumbail-image.webp
+image: /images/singer_thumbail-image2.jpg
 description: A sewing machine reimagined as a musical instrument.
 content:
   - type: text
