@@ -59,7 +59,7 @@ sections:
         title: Breaking Bread
   - title: Performances
     items:
-      - year: 2023
+      - year: "2024"
         title: Singer
         location: Visarte Zurich, Sihlqai 253, Zurich, Switzerland
       - year: 2023
