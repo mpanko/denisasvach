@@ -41,3 +41,4 @@ yarn-error.log*
 next-env.d.ts
 output.txt
 large_files_output.txt
+repopack-output.txt
