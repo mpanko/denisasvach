@@ -6,11 +6,9 @@ const nextConfig = {
     return config;
   },  
   images: {
-    domains: ['mpanko.github.io', 'denisasvach.com'],
+    domains: ['denisasvach.com'],
     unoptimized: true,
-  },
-  basePath: process.env.NODE_ENV === 'production' ? '/denisasvach' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/denisasvach/' : '',
+  }
 };
 
 module.exports = nextConfig;
