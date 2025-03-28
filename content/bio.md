@@ -33,7 +33,7 @@ sections:
         title: Feel Free to Close Your Eyes
         type: Scenography
         description: Project by Lucie Fryčová
-        location: Prague City Gallery, CirculUM 2020, Dolní Počernice, Czechia
+        location: Prague City Gallery, CirculUM 2020, Dolní Počernice, Czech Republic
       - year: 2020
         title: Treatment of Remembering
         type: Scenography
@@ -43,7 +43,7 @@ sections:
         title: Saudade
         type: Stage Design
         description: Performance by Alica Minar
-        location: Prague, Czechia
+        location: Prague, Czech Republic
   - title: Video-production
     items:
       - description: Concept, direction, set design, and post-production of the music video
