@@ -120,6 +120,14 @@ sections:
         title: Collecting Addictions
         institution: GAVU
         location: Prague, Czech Republic
+      - year: "2024"
+        title: Let’s Talk About Tiredness
+        institution: Gallery 1
+        location: Zurich, Switzerland
+      - year: "2025"
+        title: Urban Echoes
+        institution: Material
+        location: Zurich, Switzerland
   - title: Group Exhibitions
     items:
       - year: 2023
