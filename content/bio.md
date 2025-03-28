@@ -12,10 +12,13 @@ sections:
         title: Who Doesn't Know Lubochka
         type: Scenography
         description: performance by Olesya Sydorenko
+        location: Prague, Czech Republic
       - year: "2024"
         title: Dutina
         type: Lace mask
         description: Video installation by Richard Blasko
+        institution: ""
+        location: Zurich, Switzerland
       - year: 2023
         title: A Lyric of Machines
         type: Costume
@@ -35,7 +38,7 @@ sections:
         title: Treatment of Remembering
         type: Scenography
         description: Performance by Pocket Art
-        location: Prague, Czechia
+        location: Prague, Czech Republic
       - year: 2019
         title: Saudade
         type: Stage Design
