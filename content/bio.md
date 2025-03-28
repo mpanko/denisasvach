@@ -46,6 +46,10 @@ sections:
         location: Prague, Czech Republic
   - title: Video-production
     items:
+      - year: "2025"
+        title: Urban Echoes
+        description: "Concept, direction, set design, and post-production "
+        type: dance film exploring resilience in urban space
       - description: Concept, direction, set design, and post-production of the music video
         title: Orka - Pearl
         type: Music video for Columbo Record
