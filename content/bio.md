@@ -103,6 +103,14 @@ sections:
         location: Ferdinand Baumann Gallery, Prague, Czech Republic
   - title: Solo and Duo Exhibitions
     items:
+      - year: "2025"
+        title: Urban Echoes
+        institution: Material
+        location: Zurich, Switzerland
+      - year: "2024"
+        title: Let’s Talk About Tiredness
+        institution: Gallery 1
+        location: Zurich, Switzerland
       - year: 2017
         title: In the Heat of 7'
         location: Prague, Czech Republic
@@ -120,14 +128,6 @@ sections:
         title: Collecting Addictions
         institution: GAVU
         location: Prague, Czech Republic
-      - year: "2024"
-        title: Let’s Talk About Tiredness
-        institution: Gallery 1
-        location: Zurich, Switzerland
-      - year: "2025"
-        title: Urban Echoes
-        institution: Material
-        location: Zurich, Switzerland
   - title: Group Exhibitions
     items:
       - year: 2023
