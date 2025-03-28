@@ -3,6 +3,12 @@ sections:
   - title: Scenography and Costume Design
     items:
       - year: "2024"
+        title: Let’s Talk About Tiredness
+        institution: Gallery 1
+        type: costume
+        location: Zurich, Switzerland
+        description: performance by Anastasiia Tatarenko
+      - year: "2024"
         title: Who Doesn't Know Lubochka
         type: Scenography
         description: performance by Olesya Sydorenko
