@@ -143,6 +143,10 @@ sections:
         location: Prague, Czech Republic
   - title: Group Exhibitions
     items:
+      - year: "2025"
+        title: K.O.V. 2007 - 2023
+        institution: Um Gallery
+        location: Prague, Czech Republic
       - year: 2023
         title: Control
         location: Toni-Areal, Zurich, Switzerland
