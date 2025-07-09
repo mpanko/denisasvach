@@ -3,13 +3,22 @@ sections:
   - title: Scenography and Costume Design
     items:
       - year: "2024"
+        title: Let’s Talk About Tiredness
+        institution: Gallery 1
+        type: costume
+        location: Zurich, Switzerland
+        description: performance by Anastasiia Tatarenko
+      - year: "2024"
         title: Who Doesn't Know Lubochka
         type: Scenography
         description: performance by Olesya Sydorenko
+        location: Prague, Czech Republic
       - year: "2024"
         title: Dutina
         type: Lace mask
         description: Video installation by Richard Blasko
+        institution: ""
+        location: Zurich, Switzerland
       - year: 2023
         title: A Lyric of Machines
         type: Costume
@@ -24,19 +33,23 @@ sections:
         title: Feel Free to Close Your Eyes
         type: Scenography
         description: Project by Lucie Fryčová
-        location: Prague City Gallery, CirculUM 2020, Dolní Počernice, Czechia
+        location: Prague City Gallery, CirculUM 2020, Dolní Počernice, Czech Republic
       - year: 2020
         title: Treatment of Remembering
         type: Scenography
         description: Performance by Pocket Art
-        location: Prague, Czechia
+        location: Prague, Czech Republic
       - year: 2019
         title: Saudade
         type: Stage Design
         description: Performance by Alica Minar
-        location: Prague, Czechia
+        location: Prague, Czech Republic
   - title: Video-production
     items:
+      - year: "2025"
+        title: Urban Echoes
+        description: "Concept, direction, set design, and post-production "
+        type: dance film exploring resilience in urban space
       - description: Concept, direction, set design, and post-production of the music video
         title: Orka - Pearl
         type: Music video for Columbo Record
@@ -103,6 +116,14 @@ sections:
         location: Ferdinand Baumann Gallery, Prague, Czech Republic
   - title: Solo and Duo Exhibitions
     items:
+      - year: "2025"
+        title: Urban Echoes
+        institution: Material
+        location: Zurich, Switzerland
+      - year: "2024"
+        title: Let’s Talk About Tiredness
+        institution: Gallery 1
+        location: Zurich, Switzerland
       - year: 2017
         title: In the Heat of 7'
         location: Prague, Czech Republic
@@ -122,6 +143,10 @@ sections:
         location: Prague, Czech Republic
   - title: Group Exhibitions
     items:
+      - year: "2025"
+        title: K.O.V. 2007 - 2023
+        institution: Um Gallery
+        location: Prague, Czech Republic
       - year: 2023
         title: Control
         location: Toni-Areal, Zurich, Switzerland

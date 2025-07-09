@@ -1,5 +1,5 @@
 ---
-image: /images/contact_image.jpg
+image: /images/denisa.jpg
 ---
 
 If you'd like to visit my studio, talk about creating a costume or set design for your performance, work on a video, or explore other collaborations, feel free to get in touch. I'm happy to make you a coffee and chat about your ideas.
