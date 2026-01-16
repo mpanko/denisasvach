@@ -144,6 +144,10 @@ sections:
   - title: Group Exhibitions
     items:
       - year: "2025"
+        title: Prorustky
+        location: Vysoka, Czech Republic
+        institution: Farmstudio
+      - year: "2025"
         title: K.O.V. 2007 - 2023
         institution: Um Gallery
         location: Prague, Czech Republic
@@ -198,7 +202,8 @@ sections:
         location: Greenhouse, Berlin, Germany
       - year: 2015
         title: MONUMENT 1
-        location: NoD Gallery, Prague, Czech Republic
+        location: Prague, Czech Republic
+        institution: NoD
   - title: Residencies and Workshops
     items:
       - year: "2024"
