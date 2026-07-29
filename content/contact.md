@@ -8,6 +8,4 @@ If you'd like to visit my studio, talk about creating a costume or set design fo
 **Instagram:** [@denisasvach](https://www.instagram.com/denisasvach)
 
 **Studio Address:**\
-Kochstrasse 12
-
-80004 Zurich, Switzerland
+Kochstrasse 12, 8004 Zurich, Switzerland
