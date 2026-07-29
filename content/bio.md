@@ -143,6 +143,10 @@ sections:
         location: Prague, Czech Republic
   - title: Group Exhibitions
     items:
+      - year: "2026"
+        title: Traces of Time
+        institution: Go Green Art gallery
+        location: Erlenbach, Switzerland
       - year: "2025"
         title: Prorustky
         location: Vysoka, Czech Republic
@@ -206,6 +210,11 @@ sections:
         institution: NoD
   - title: Residencies and Workshops
     items:
+      - year: "2026"
+        title: Re-mapping Five Waters
+        institution: ALTE FABRIK
+        location: Rapperswil-Jona, Switzerland
+        description: Workshop on collective countermapping and colonial memory
       - year: "2024"
         title: "Tanzhaus: A Gathering Sisterhood & Makramee "
         institution: ""
