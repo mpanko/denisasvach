@@ -1,13 +1,24 @@
+# Sveltia CMS configuration: https://sveltiacms.app/en/docs
 backend:
   name: github
   repo: mpanko/denisasvach
   branch: main
   base_url: https://sveltia-cms-auth.yellowzelo.workers.dev/
 
-local_backend: true
-
 media_folder: public/images
 public_folder: /images
+
+# New uploads: lowercase/hyphenated file names, and photos converted to WebP
+# and scaled down to at most 2560px (existing images are not touched).
+media_libraries:
+  all:
+    slugify_filename: true
+    transformations:
+      raster_image:
+        format: webp
+        quality: 85
+        width: 2560
+        height: 2560
 
 collections:
   - name: "projects"
@@ -16,7 +27,6 @@ collections:
     create: true
     slug: "{{id}}"
     identifier_field: "id"
-    clean_accents: true
     sortable_fields: ['order']
     fields:
       - {label: "Project ID", name: "id", widget: "string", pattern: ['^[a-z0-9]+(?:-[a-z0-9]+)*$', "Must be lowercase letters, numbers, and hyphens only"]}

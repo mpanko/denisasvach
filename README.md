@@ -17,7 +17,7 @@ A Next.js-based portfolio website for visual artist Denisa Svach, live at https:
 - TypeScript 6
 - Tailwind CSS 4 (CSS-first config in `app/globals.css`) + `@tailwindcss/typography`
 - ESLint 9 (flat config in `eslint.config.mjs`)
-- Decap CMS for content editing (`/admin`)
+- Sveltia CMS for content editing at `/admin` (GitHub login via a Sveltia CMS Auth worker on Cloudflare)
 
 Requires Node.js 20.9 or newer (CI uses Node 24).
 
@@ -30,7 +30,10 @@ Requires Node.js 20.9 or newer (CI uses Node 24).
 - `app/globals.css`: Tailwind setup and the few global styles (colour tokens, link hover)
 - `content/`: Markdown content (projects, bio, contact), edited through the CMS
 - `public/images/`: Images (CMS media folder)
-- `public/admin/`: Decap CMS config
+- `public/admin/`: Sveltia CMS page (pinned version) and `config.yml`
+
+To edit content locally, run `npm run dev`, open http://localhost:3000/admin/ in Chrome or Edge
+and choose "Work with Local Repository"; changes are written straight to the files in `content/`.
 
 ## Development
 

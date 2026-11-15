@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Image from 'next/image'
 import ReactMarkdown from 'react-markdown'
+import remarkBreaks from 'remark-breaks'
 import type { Project } from '../types'
 import Embed from './Embed'
 import ImageModal from './ImageModal'
@@ -18,7 +19,7 @@ export default function ProjectDetail({ project }: { project: Project }) {
             {index === 0 && <h1 className="text-5xl font-bold mb-6 uppercase">{project.title}</h1>}
             {item.type === 'text' && item.content && (
               <div className="prose max-w-none">
-                <ReactMarkdown>{item.content}</ReactMarkdown>
+                <ReactMarkdown remarkPlugins={[remarkBreaks]}>{item.content}</ReactMarkdown>
               </div>
             )}
             {item.type === 'image' && item.src && (
