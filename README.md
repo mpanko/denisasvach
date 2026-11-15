@@ -1,6 +1,6 @@
 # Denisa Svach Portfolio
 
-A Next.js-based portfolio website for visual artist Denisa Svach.
+A Next.js-based portfolio website for visual artist Denisa Svach, live at https://denisasvach.com.
 
 ## Key Features
 
@@ -12,35 +12,33 @@ A Next.js-based portfolio website for visual artist Denisa Svach.
 
 ## Tech Stack
 
-- Next.js 14
-- React 18
-- TypeScript
-- Tailwind CSS
+- Next.js 16 (App Router, static export)
+- React 19
+- TypeScript 6
+- Tailwind CSS 4 (CSS-first config in `app/globals.css`) + `@tailwindcss/typography`
+- ESLint 9 (flat config in `eslint.config.mjs`)
+- Decap CMS for content editing (`/admin`)
+
+Requires Node.js 20.9 or newer (CI uses Node 24).
 
 ## Project Structure
 
 - `app/`: Next.js app router pages and components
 - `app/components/`: Reusable React components
-- `app/data/`: Project and biography data
-- `public/`: Static assets (images)
+- `content/`: Markdown content (projects, bio, contact), edited through the CMS
+- `public/images/`: Images (CMS media folder)
+- `public/admin/`: Decap CMS config
 
 ## Development
 
 1. Install dependencies: `npm install`
 2. Run development server: `npm run dev`
-3. Build for production: `npm run build`
+3. Lint and type-check: `npm run lint` and `npm run typecheck`
+4. Build for production: `npm run build` (writes the static site to `out/`)
 
 ## Deployment
 
-- Currently deployed on GitHub Pages
-- Future deployment planned for custom domain (denisasvach.com)
-
-## Image Handling
-
-- Uses custom `getImagePath` utility for flexible image path management
-- Supports local development, GitHub Pages, and future custom domain
-
-## Notes
-
-- Update `next.config.js` when switching to custom domain
-- Ensure all images are in the correct `public/` subdirectories
+- Every push to `main` (including CMS edits) runs `.github/workflows/nextjs.yml`,
+  which builds the static export and deploys it to GitHub Pages on the custom domain.
+- `next.config.ts` sets `output: 'export'` and unoptimized images; no basePath is
+  needed because the site is served from the domain root.

@@ -20,7 +20,7 @@ export default function CollapsibleSection({ title, items, isFirst = false }: Co
         onClick={() => setIsOpen(!isOpen)}
         aria-expanded={isOpen}
       >
-        <span className="flex-grow">{title}</span>
+        <span className="grow">{title}</span>
         <span className="flex items-center justify-center w-8 h-8">
           {isOpen ? (
             <Minus className="w-6 h-6" />
