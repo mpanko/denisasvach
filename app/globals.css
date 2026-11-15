@@ -5,18 +5,13 @@
   --font-sans: 'Helvetica', 'Arial', sans-serif;
 }
 
+/* Page colours. Links, markdown and hover states all follow these two tokens. */
 :root {
   --background: #ffffff;
   --foreground: #000000;
 }
 
 @layer base {
-  /* Tailwind v4 no longer gives buttons a pointer cursor; keep the v3 behaviour. */
-  button:not(:disabled),
-  [role='button']:not(:disabled) {
-    cursor: pointer;
-  }
-
   body {
     color: var(--foreground);
     background: var(--background);
@@ -34,46 +29,47 @@
   }
 
   a {
-    text-decoration: none;
     color: inherit;
+    text-decoration: none;
   }
 
+  /* Every link inverts on hover. */
   a:hover {
-    background-color: var(--foreground);
     color: var(--background);
+    background-color: var(--foreground);
   }
 
-  /* Project detail pages are white-on-black: swap the colour tokens. */
-  .bg-black.text-white {
-    --background: #000000;
-    --foreground: #ffffff;
+  button:not(:disabled) {
+    cursor: pointer;
   }
 }
 
-/* Markdown (prose) follows the page's foreground/background colours. */
+@layer components {
+  /* White-on-black sections (project pages). */
+  .inverted {
+    --background: #000000;
+    --foreground: #ffffff;
+    color: var(--foreground);
+    background-color: var(--background);
+  }
+}
+
+/* Markdown (.prose) uses the page colours instead of the typography plugin's greys. */
 @layer utilities {
   .prose {
-    color: var(--foreground);
+    --tw-prose-body: var(--foreground);
+    --tw-prose-headings: var(--foreground);
+    --tw-prose-links: var(--foreground);
+    --tw-prose-bold: var(--foreground);
   }
 
-  .prose :where(a):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
-    color: var(--foreground);
-  }
-
-  .prose :where(a):not(:where([class~='not-prose'], [class~='not-prose'] *)):hover {
+  .prose a:hover {
     color: var(--background);
     background-color: var(--foreground);
   }
 
-  .prose
-    :where(h1, h2, h3, h4, h5, h6):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
-    color: var(--foreground);
-    text-transform: uppercase;
-    font-weight: bold;
-  }
-
-  .prose :where(strong):not(:where([class~='not-prose'], [class~='not-prose'] *)) {
-    color: var(--foreground);
+  .prose strong,
+  .prose :is(h1, h2, h3, h4, h5, h6) {
     font-weight: 700;
   }
 }

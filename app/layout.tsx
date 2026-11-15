@@ -1,26 +1,21 @@
-import React from 'react'
+import type { Metadata } from 'next'
+import type { ReactNode } from 'react'
 import Header from './components/Header'
 import Footer from './components/Footer'
 import './globals.css'
 
-export const metadata = {
+export const metadata: Metadata = {
   title: 'Denisa Svach',
   description: 'Portfolio of Denisa Svach',
 }
 
-export default function RootLayout({
-  children,
-}: {
-  children: React.ReactNode
-}) {
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="en">
       <body>
         <div className="min-h-screen flex flex-col">
           <Header />
-          <main className="grow">
-            {children}
-          </main>
+          <main className="grow">{children}</main>
           <Footer />
         </div>
       </body>

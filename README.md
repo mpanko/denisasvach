@@ -23,8 +23,11 @@ Requires Node.js 20.9 or newer (CI uses Node 24).
 
 ## Project Structure
 
-- `app/`: Next.js app router pages and components
-- `app/components/`: Reusable React components
+- `app/`: Next.js app router pages
+- `app/components/`: React components
+- `app/lib/content.ts`: reads the Markdown content (the only code that touches the file system)
+- `app/types.ts`: content types, mirroring the CMS fields in `public/admin/config.yml`
+- `app/globals.css`: Tailwind setup and the few global styles (colour tokens, link hover)
 - `content/`: Markdown content (projects, bio, contact), edited through the CMS
 - `public/images/`: Images (CMS media folder)
 - `public/admin/`: Decap CMS config

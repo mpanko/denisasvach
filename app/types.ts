@@ -1,13 +1,15 @@
+// Shapes of the Markdown front matter, mirroring public/admin/config.yml.
+
 export interface ProjectContent {
   type: 'text' | 'image' | 'youtube' | 'vimeo' | 'soundcloud'
   content?: string
   src?: string
   alt?: string
   span?: boolean
+  vertical?: boolean
   youtubeId?: string
   vimeoId?: string
   soundcloudUrl?: string
-  vertical?: boolean
 }
 
 export interface Project {
@@ -15,8 +17,8 @@ export interface Project {
   title: string
   image: string
   description: string
-  content: ProjectContent[]
   order: number
+  content: ProjectContent[]
 }
 
 export interface BioItem {
@@ -34,11 +36,11 @@ export interface BioSection {
 }
 
 export interface Bio {
-  content: string
   sections: BioSection[]
+  body: string
 }
 
 export interface Contact {
   image: string
-  content: string
+  body: string
 }
