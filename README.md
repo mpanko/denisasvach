@@ -31,6 +31,8 @@ Requires Node.js 20.9 or newer (CI uses Node 24).
 - `content/`: Markdown content (projects, bio, contact), edited through the CMS
 - `public/images/`: Images (CMS media folder)
 - `public/admin/`: Sveltia CMS page (pinned version) and `config.yml`
+- `public/`: files uploaded in the CMS under Assets → Files (e.g. `portfolio.pdf`) are public at
+  `https://denisasvach.com/<file-name>`; use "Replace" in the CMS to update a file and keep its link
 
 To edit content locally, run `npm run dev`, open http://localhost:3000/admin/ in Chrome or Edge
 and choose "Work with Local Repository"; changes are written straight to the files in `content/`.

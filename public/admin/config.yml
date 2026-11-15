@@ -5,14 +5,26 @@ backend:
   branch: main
   base_url: https://sveltia-cms-auth.yellowzelo.workers.dev/
 
+site_url: https://denisasvach.com
+
 media_folder: public/images
 public_folder: /images
+
+# "Files" in the Assets view: anything uploaded there is public at
+# https://denisasvach.com/<file-name> (e.g. /portfolio.pdf).
+# Use "Replace" to update a file without changing its link.
+asset_collections:
+  - name: files
+    label: Files
+    media_folder: /public
+    public_folder: /
 
 # New uploads: lowercase/hyphenated file names, and photos converted to WebP
 # and scaled down to at most 2560px (existing images are not touched).
 media_libraries:
   all:
     slugify_filename: true
+    max_file_size: 52428800 # 50 MB; GitHub rejects files over 100 MB
     transformations:
       raster_image:
         format: webp
